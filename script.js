@@ -19,7 +19,9 @@ async function loadData() {
         "backseat",
         "strokes",
         "blink",
-        "rex"
+        "rex",
+        "wallows",
+        "coldplay"
     ];
 
     const songResponses = await Promise.all(
