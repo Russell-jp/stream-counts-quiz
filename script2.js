@@ -9,10 +9,32 @@ let currentRoundSongs = [];
 let roundHistory = [];
 
 async function loadData() {
-    const songsResponse = await fetch("/api/songs");
-    songs = await songsResponse.json();
+    const artistIds = [
+        "weezer",
+        "mcr",
+        "oasis",
+        "killers",
+        "tbs",
+        "panic",
+        "backseat",
+        "strokes",
+        "blink",
+        "rex"
+    ];
 
-    const artistsResponse = await fetch("/data/artists.json");
+    const songResponses = await Promise.all(
+        artistIds.map(artistId =>
+            fetch(`cache/${artistId}-playable.json`)
+        )
+    );
+
+    const songData = await Promise.all(
+        songResponses.map(response => response.json())
+    );
+
+    songs = songData.flat();
+
+    const artistsResponse = await fetch("data/artists.json");
     artists = await artistsResponse.json();
 
     console.log("songs loaded:", songs.length);
