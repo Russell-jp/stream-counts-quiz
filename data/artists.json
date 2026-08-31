@@ -1,0 +1,62 @@
+[
+    {
+        "id": "weezer",
+        "name": "Weezer",
+        "image": "covers/weezer/blue.jpg"
+    },
+    {
+        "id": "mcr",
+        "name": "My Chemical Romance",
+        "image": "covers/mcr/cheers.jpeg"
+    },
+    {
+        "id": "oasis",
+        "name": "Oasis",
+        "image": "covers/oasis/morning.jpg"
+    },
+    {
+        "id": "killers",
+        "name": "The Killers",
+        "image": "covers/killers/hotfuss.jpg"
+    },
+    {
+        "id": "tbs",
+        "name": "Taking Back Sunday",
+        "image": "covers/tbs/tayf.jpg"
+    },
+    {
+        "id": "panic",
+        "name": "Panic! At The Disco",
+        "image": "covers/panic/fever.jpeg"
+    },
+    {
+        "id": "backseat",
+        "name": "The Backseat Lovers",
+        "image": "covers/backseat/wwwf.jpeg"
+    },
+    {
+        "id": "strokes",
+        "name": "The Strokes",
+        "image": "covers/strokes/abnormal.jpeg"
+    },
+    {
+        "id": "blink",
+        "name": "blink-182",
+        "image": "covers/blink/takeoff.jpg"
+    },
+    {
+        "id": "rex",
+        "name": "Rex Orange County",
+        "image": "covers/rex/pony.jpeg"
+    },
+    {
+        "id": "wallows",
+        "name": "Wallows",
+        "image": "covers/wallows/nothing.jpeg"
+    },
+    {
+        "id": "coldplay",
+        "name": "Coldplay",
+        "image": "covers/coldplay/dreams.jpg"
+    }
+]

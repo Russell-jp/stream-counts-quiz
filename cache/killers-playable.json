@@ -1,0 +1,954 @@
+[
+  {
+    "title": "Jenny Was A Friend Of Mine",
+    "artist": "The Killers",
+    "totalStreams": 116496919,
+    "dailyStreams": 48685,
+    "album": "Hot Fuss",
+    "cover": "covers/killers/hotfuss.jpg"
+  },
+  {
+    "title": "Mr. Brightside",
+    "artist": "The Killers",
+    "totalStreams": 3427230508,
+    "dailyStreams": 2066668,
+    "album": "Hot Fuss",
+    "cover": "covers/killers/hotfuss.jpg"
+  },
+  {
+    "title": "Smile Like You Mean It",
+    "artist": "The Killers",
+    "totalStreams": 261419664,
+    "dailyStreams": 128773,
+    "album": "Hot Fuss",
+    "cover": "covers/killers/hotfuss.jpg"
+  },
+  {
+    "title": "Somebody Told Me",
+    "artist": "The Killers",
+    "totalStreams": 1279742265,
+    "dailyStreams": 667238,
+    "album": "Hot Fuss",
+    "cover": "covers/killers/hotfuss.jpg"
+  },
+  {
+    "title": "All These Things That I've Done",
+    "artist": "The Killers",
+    "totalStreams": 501445998,
+    "dailyStreams": 236029,
+    "album": "Hot Fuss",
+    "cover": "covers/killers/hotfuss.jpg"
+  },
+  {
+    "title": "Andy, You're A Star",
+    "artist": "The Killers",
+    "totalStreams": 41442835,
+    "dailyStreams": 8398,
+    "album": "Hot Fuss",
+    "cover": "covers/killers/hotfuss.jpg"
+  },
+  {
+    "title": "On Top",
+    "artist": "The Killers",
+    "totalStreams": 40374790,
+    "dailyStreams": 9195,
+    "album": "Hot Fuss",
+    "cover": "covers/killers/hotfuss.jpg"
+  },
+  {
+    "title": "Change Your Mind",
+    "artist": "The Killers",
+    "totalStreams": 56446107,
+    "dailyStreams": 18984,
+    "album": "Hot Fuss",
+    "cover": "covers/killers/hotfuss.jpg"
+  },
+  {
+    "title": "Believe Me Natalie",
+    "artist": "The Killers",
+    "totalStreams": 25839377,
+    "dailyStreams": 5306,
+    "album": "Hot Fuss",
+    "cover": "covers/killers/hotfuss.jpg"
+  },
+  {
+    "title": "Midnight Show",
+    "artist": "The Killers",
+    "totalStreams": 26158684,
+    "dailyStreams": 6591,
+    "album": "Hot Fuss",
+    "cover": "covers/killers/hotfuss.jpg"
+  },
+  {
+    "title": "Everything Will Be Alright",
+    "artist": "The Killers",
+    "totalStreams": 22503380,
+    "dailyStreams": 4568,
+    "album": "Hot Fuss",
+    "cover": "covers/killers/hotfuss.jpg"
+  },
+  {
+    "title": "Glamorous Indie Rock & Roll",
+    "artist": "The Killers",
+    "totalStreams": 45387528,
+    "dailyStreams": 9578,
+    "album": "Hot Fuss",
+    "cover": "covers/killers/hotfuss.jpg"
+  },
+  {
+    "title": "Sam's Town",
+    "artist": "The Killers",
+    "totalStreams": 40332736,
+    "dailyStreams": 9689,
+    "album": "Sam's Town",
+    "cover": "covers/killers/sam.jpeg"
+  },
+  {
+    "title": "Enterlude",
+    "artist": "The Killers",
+    "totalStreams": 20204660,
+    "dailyStreams": 4321,
+    "album": "Sam's Town",
+    "cover": "covers/killers/sam.jpeg"
+  },
+  {
+    "title": "When You Were Young",
+    "artist": "The Killers",
+    "totalStreams": 885279100,
+    "dailyStreams": 351278,
+    "album": "Sam's Town",
+    "cover": "covers/killers/sam.jpeg"
+  },
+  {
+    "title": "Bling (Confession Of A King)",
+    "artist": "The Killers",
+    "totalStreams": 24375177,
+    "dailyStreams": 4281,
+    "album": "Sam's Town",
+    "cover": "covers/killers/sam.jpeg"
+  },
+  {
+    "title": "For Reasons Unknown",
+    "artist": "The Killers",
+    "totalStreams": 117188386,
+    "dailyStreams": 35105,
+    "album": "Sam's Town",
+    "cover": "covers/killers/sam.jpeg"
+  },
+  {
+    "title": "Read My Mind",
+    "artist": "The Killers",
+    "totalStreams": 354728454,
+    "dailyStreams": 132361,
+    "album": "Sam's Town",
+    "cover": "covers/killers/sam.jpeg"
+  },
+  {
+    "title": "Uncle Jonny",
+    "artist": "The Killers",
+    "totalStreams": 20118586,
+    "dailyStreams": 3321,
+    "album": "Sam's Town",
+    "cover": "covers/killers/sam.jpeg"
+  },
+  {
+    "title": "Bones",
+    "artist": "The Killers",
+    "totalStreams": 76450513,
+    "dailyStreams": 19390,
+    "album": "Sam's Town",
+    "cover": "covers/killers/sam.jpeg"
+  },
+  {
+    "title": "My List",
+    "artist": "The Killers",
+    "totalStreams": 13049821,
+    "dailyStreams": 2524,
+    "album": "Sam's Town",
+    "cover": "covers/killers/sam.jpeg"
+  },
+  {
+    "title": "This River Is Wild",
+    "artist": "The Killers",
+    "totalStreams": 25235708,
+    "dailyStreams": 4670,
+    "album": "Sam's Town",
+    "cover": "covers/killers/sam.jpeg"
+  },
+  {
+    "title": "Why Do I Keep Counting?",
+    "artist": "The Killers",
+    "totalStreams": 11967963,
+    "dailyStreams": 2413,
+    "album": "Sam's Town",
+    "cover": "covers/killers/sam.jpeg"
+  },
+  {
+    "title": "Exitlude",
+    "artist": "The Killers",
+    "totalStreams": 27989122,
+    "dailyStreams": 4398,
+    "album": "Sam's Town",
+    "cover": "covers/killers/sam.jpeg"
+  },
+  {
+    "title": "Losing Touch",
+    "artist": "The Killers",
+    "totalStreams": 31137270,
+    "dailyStreams": 5014,
+    "album": "Day & Age",
+    "cover": "covers/killers/day.jpg"
+  },
+  {
+    "title": "Human",
+    "artist": "The Killers",
+    "totalStreams": 739132361,
+    "dailyStreams": 231574,
+    "album": "Day & Age",
+    "cover": "covers/killers/day.jpg"
+  },
+  {
+    "title": "Spaceman",
+    "artist": "The Killers",
+    "totalStreams": 165040952,
+    "dailyStreams": 46927,
+    "album": "Day & Age",
+    "cover": "covers/killers/day.jpg"
+  },
+  {
+    "title": "Joy Ride",
+    "artist": "The Killers",
+    "totalStreams": 15110816,
+    "dailyStreams": 1764,
+    "album": "Day & Age",
+    "cover": "covers/killers/day.jpg"
+  },
+  {
+    "title": "A Dustland Fairytale",
+    "artist": "The Killers",
+    "totalStreams": 64395787,
+    "dailyStreams": 12882,
+    "album": "Day & Age",
+    "cover": "covers/killers/day.jpg"
+  },
+  {
+    "title": "This Is Your Life",
+    "artist": "The Killers",
+    "totalStreams": 32023533,
+    "dailyStreams": 6573,
+    "album": "Day & Age",
+    "cover": "covers/killers/day.jpg"
+  },
+  {
+    "title": "I Can't Stay",
+    "artist": "The Killers",
+    "totalStreams": 27656869,
+    "dailyStreams": 4309,
+    "album": "Day & Age",
+    "cover": "covers/killers/day.jpg"
+  },
+  {
+    "title": "Neon Tiger",
+    "artist": "The Killers",
+    "totalStreams": 11674800,
+    "dailyStreams": 1749,
+    "album": "Day & Age",
+    "cover": "covers/killers/day.jpg"
+  },
+  {
+    "title": "The World We Live In",
+    "artist": "The Killers",
+    "totalStreams": 24437436,
+    "dailyStreams": 3205,
+    "album": "Day & Age",
+    "cover": "covers/killers/day.jpg"
+  },
+  {
+    "title": "Goodnight, Travel Well",
+    "artist": "The Killers",
+    "totalStreams": 10603857,
+    "dailyStreams": 1671,
+    "album": "Day & Age",
+    "cover": "covers/killers/day.jpg"
+  },
+  {
+    "title": "Flesh And Bone",
+    "artist": "The Killers",
+    "totalStreams": 27223258,
+    "dailyStreams": 3007,
+    "album": "Battle Born",
+    "cover": "covers/killers/battle.jpg"
+  },
+  {
+    "title": "Runaways",
+    "artist": "The Killers",
+    "totalStreams": 126763257,
+    "dailyStreams": 28052,
+    "album": "Battle Born",
+    "cover": "covers/killers/battle.jpg"
+  },
+  {
+    "title": "The Way It Was",
+    "artist": "The Killers",
+    "totalStreams": 90378846,
+    "dailyStreams": 25853,
+    "album": "Battle Born",
+    "cover": "covers/killers/battle.jpg"
+  },
+  {
+    "title": "Here With Me",
+    "artist": "The Killers",
+    "totalStreams": 72182319,
+    "dailyStreams": 12226,
+    "album": "Battle Born",
+    "cover": "covers/killers/battle.jpg"
+  },
+  {
+    "title": "A Matter Of Time",
+    "artist": "The Killers",
+    "totalStreams": 14685977,
+    "dailyStreams": 1789,
+    "album": "Battle Born",
+    "cover": "covers/killers/battle.jpg"
+  },
+  {
+    "title": "Deadlines And Commitments",
+    "artist": "The Killers",
+    "totalStreams": 15033502,
+    "dailyStreams": 1917,
+    "album": "Battle Born",
+    "cover": "covers/killers/battle.jpg"
+  },
+  {
+    "title": "Miss Atomic Bomb",
+    "artist": "The Killers",
+    "totalStreams": 90618290,
+    "dailyStreams": 20220,
+    "album": "Battle Born",
+    "cover": "covers/killers/battle.jpg"
+  },
+  {
+    "title": "The Rising Tide",
+    "artist": "The Killers",
+    "totalStreams": 12812638,
+    "dailyStreams": 1455,
+    "album": "Battle Born",
+    "cover": "covers/killers/battle.jpg"
+  },
+  {
+    "title": "Heart Of A Girl",
+    "artist": "The Killers",
+    "totalStreams": 14292004,
+    "dailyStreams": 1441,
+    "album": "Battle Born",
+    "cover": "covers/killers/battle.jpg"
+  },
+  {
+    "title": "From Here On Out",
+    "artist": "The Killers",
+    "totalStreams": 13091352,
+    "dailyStreams": 1373,
+    "album": "Battle Born",
+    "cover": "covers/killers/battle.jpg"
+  },
+  {
+    "title": "Be Still",
+    "artist": "The Killers",
+    "totalStreams": 54427177,
+    "dailyStreams": 9292,
+    "album": "Battle Born",
+    "cover": "covers/killers/battle.jpg"
+  },
+  {
+    "title": "Battle Born",
+    "artist": "The Killers",
+    "totalStreams": 28053831,
+    "dailyStreams": 4776,
+    "album": "Battle Born",
+    "cover": "covers/killers/battle.jpg"
+  },
+  {
+    "title": "A Great Big Sled",
+    "artist": "The Killers",
+    "totalStreams": 6934186,
+    "dailyStreams": 196,
+    "album": "Don't Waste Your Wishes",
+    "cover": "covers/killers/wishes.jpg"
+  },
+  {
+    "title": "Don't Shoot Me Santa",
+    "artist": "The Killers",
+    "totalStreams": 18144200,
+    "dailyStreams": 667,
+    "album": "Don't Waste Your Wishes",
+    "cover": "covers/killers/wishes.jpg"
+  },
+  {
+    "title": "Joseph, Better You Than Me",
+    "artist": "The Killers",
+    "totalStreams": 2278043,
+    "dailyStreams": 95,
+    "album": "Don't Waste Your Wishes",
+    "cover": "covers/killers/wishes.jpg"
+  },
+  {
+    "title": "¡Happy Birthday Guadalupe!",
+    "artist": "The Killers",
+    "totalStreams": 3081327,
+    "dailyStreams": 175,
+    "album": "Don't Waste Your Wishes",
+    "cover": "covers/killers/wishes.jpg"
+  },
+  {
+    "title": "Boots",
+    "artist": "The Killers",
+    "totalStreams": 3656106,
+    "dailyStreams": 251,
+    "album": "Don't Waste Your Wishes",
+    "cover": "covers/killers/wishes.jpg"
+  },
+  {
+    "title": "The Cowboys' Christmas Ball",
+    "artist": "The Killers",
+    "totalStreams": 1550207,
+    "dailyStreams": 75,
+    "album": "Don't Waste Your Wishes",
+    "cover": "covers/killers/wishes.jpg"
+  },
+  {
+    "title": "I Feel It In My Bones",
+    "artist": "The Killers",
+    "totalStreams": 909842,
+    "dailyStreams": 105,
+    "album": "Don't Waste Your Wishes",
+    "cover": "covers/killers/wishes.jpg"
+  },
+  {
+    "title": "Christmas In L.A.",
+    "artist": "The Killers",
+    "totalStreams": 1508053,
+    "dailyStreams": 136,
+    "album": "Don't Waste Your Wishes",
+    "cover": "covers/killers/wishes.jpg"
+  },
+  {
+    "title": "Joel The Lump Of Coal",
+    "artist": "The Killers",
+    "totalStreams": 1022473,
+    "dailyStreams": 62,
+    "album": "Don't Waste Your Wishes",
+    "cover": "covers/killers/wishes.jpg"
+  },
+  {
+    "title": "Dirt Sledding",
+    "artist": "The Killers",
+    "totalStreams": 731443,
+    "dailyStreams": 66,
+    "album": "Don't Waste Your Wishes",
+    "cover": "covers/killers/wishes.jpg"
+  },
+  {
+    "title": "I'll Be Home For Christmas",
+    "artist": "The Killers",
+    "totalStreams": 449443,
+    "dailyStreams": 25,
+    "album": "Don't Waste Your Wishes",
+    "cover": "covers/killers/wishes.jpg"
+  },
+  {
+    "title": "Wonderful Wonderful",
+    "artist": "The Killers",
+    "totalStreams": 29520861,
+    "dailyStreams": 1489,
+    "album": "Wonderful Wonderful",
+    "cover": "covers/killers/wonderful.jpg"
+  },
+  {
+    "title": "The Man",
+    "artist": "The Killers",
+    "totalStreams": 231475297,
+    "dailyStreams": 61546,
+    "album": "Wonderful Wonderful",
+    "cover": "covers/killers/wonderful.jpg"
+  },
+  {
+    "title": "Rut",
+    "artist": "The Killers",
+    "totalStreams": 23236881,
+    "dailyStreams": 1536,
+    "album": "Wonderful Wonderful",
+    "cover": "covers/killers/wonderful.jpg"
+  },
+  {
+    "title": "Life To Come",
+    "artist": "The Killers",
+    "totalStreams": 18110629,
+    "dailyStreams": 1217,
+    "album": "Wonderful Wonderful",
+    "cover": "covers/killers/wonderful.jpg"
+  },
+  {
+    "title": "Run For Cover",
+    "artist": "The Killers",
+    "totalStreams": 151216492,
+    "dailyStreams": 21994,
+    "album": "Wonderful Wonderful",
+    "cover": "covers/killers/wonderful.jpg"
+  },
+  {
+    "title": "Tyson vs Douglas",
+    "artist": "The Killers",
+    "totalStreams": 22117195,
+    "dailyStreams": 1837,
+    "album": "Wonderful Wonderful",
+    "cover": "covers/killers/wonderful.jpg"
+  },
+  {
+    "title": "Some Kind Of Love",
+    "artist": "The Killers",
+    "totalStreams": 39472947,
+    "dailyStreams": 5951,
+    "album": "Wonderful Wonderful",
+    "cover": "covers/killers/wonderful.jpg"
+  },
+  {
+    "title": "Out Of My Mind",
+    "artist": "The Killers",
+    "totalStreams": 19140809,
+    "dailyStreams": 1304,
+    "album": "Wonderful Wonderful",
+    "cover": "covers/killers/wonderful.jpg"
+  },
+  {
+    "title": "The Calling",
+    "artist": "The Killers",
+    "totalStreams": 13999369,
+    "dailyStreams": 1224,
+    "album": "Wonderful Wonderful",
+    "cover": "covers/killers/wonderful.jpg"
+  },
+  {
+    "title": "Have All The Songs Been Written?",
+    "artist": "The Killers",
+    "totalStreams": 9094907,
+    "dailyStreams": 609,
+    "album": "Wonderful Wonderful",
+    "cover": "covers/killers/wonderful.jpg"
+  },
+  {
+    "title": "My Own Soul’s Warning",
+    "artist": "The Killers",
+    "totalStreams": 54122890,
+    "dailyStreams": 13113,
+    "album": "Imploding the Mirage",
+    "cover": "covers/killers/mirage.jpg"
+  },
+  {
+    "title": "Blowback",
+    "artist": "The Killers",
+    "totalStreams": 19412508,
+    "dailyStreams": 3377,
+    "album": "Imploding the Mirage",
+    "cover": "covers/killers/mirage.jpg"
+  },
+  {
+    "title": "Dying Breed",
+    "artist": "The Killers",
+    "totalStreams": 33861024,
+    "dailyStreams": 6131,
+    "album": "Imploding the Mirage",
+    "cover": "covers/killers/mirage.jpg"
+  },
+  {
+    "title": "Caution",
+    "artist": "The Killers",
+    "totalStreams": 56798907,
+    "dailyStreams": 17969,
+    "album": "Imploding the Mirage",
+    "cover": "covers/killers/mirage.jpg"
+  },
+  {
+    "title": "Lightning Fields (feat. k.d. lang)",
+    "artist": "The Killers",
+    "totalStreams": 10330582,
+    "dailyStreams": 1736,
+    "album": "Imploding the Mirage",
+    "cover": "covers/killers/mirage.jpg"
+  },
+  {
+    "title": "Fire In Bone",
+    "artist": "The Killers",
+    "totalStreams": 14675894,
+    "dailyStreams": 1420,
+    "album": "Imploding the Mirage",
+    "cover": "covers/killers/mirage.jpg"
+  },
+  {
+    "title": "Running Towards A Place",
+    "artist": "The Killers",
+    "totalStreams": 10894828,
+    "dailyStreams": 2593,
+    "album": "Imploding the Mirage",
+    "cover": "covers/killers/mirage.jpg"
+  },
+  {
+    "title": "My God (feat. Weyes Blood)",
+    "artist": "The Killers",
+    "totalStreams": 13724501,
+    "dailyStreams": 3403,
+    "album": "Imploding the Mirage",
+    "cover": "covers/killers/mirage.jpg"
+  },
+  {
+    "title": "When The Dreams Run Dry",
+    "artist": "The Killers",
+    "totalStreams": 8314408,
+    "dailyStreams": 1365,
+    "album": "Imploding the Mirage",
+    "cover": "covers/killers/mirage.jpg"
+  },
+  {
+    "title": "Imploding The Mirage",
+    "artist": "The Killers",
+    "totalStreams": 11159888,
+    "dailyStreams": 1961,
+    "album": "Imploding the Mirage",
+    "cover": "covers/killers/mirage.jpg"
+  },
+  {
+    "title": "West Hills",
+    "artist": "The Killers",
+    "totalStreams": 7178298,
+    "dailyStreams": 1397,
+    "album": "Pressure Machine",
+    "cover": "covers/killers/pressure.jpg"
+  },
+  {
+    "title": "Quiet Town",
+    "artist": "The Killers",
+    "totalStreams": 12361575,
+    "dailyStreams": 3646,
+    "album": "Pressure Machine",
+    "cover": "covers/killers/pressure.jpg"
+  },
+  {
+    "title": "Terrible Thing",
+    "artist": "The Killers",
+    "totalStreams": 5284767,
+    "dailyStreams": 910,
+    "album": "Pressure Machine",
+    "cover": "covers/killers/pressure.jpg"
+  },
+  {
+    "title": "Cody",
+    "artist": "The Killers",
+    "totalStreams": 5524755,
+    "dailyStreams": 798,
+    "album": "Pressure Machine",
+    "cover": "covers/killers/pressure.jpg"
+  },
+  {
+    "title": "Sleepwalker",
+    "artist": "The Killers",
+    "totalStreams": 5145754,
+    "dailyStreams": 921,
+    "album": "Pressure Machine",
+    "cover": "covers/killers/pressure.jpg"
+  },
+  {
+    "title": "Runaway Horses (feat. Phoebe Bridgers)",
+    "artist": "The Killers",
+    "totalStreams": 6546883,
+    "dailyStreams": 1687,
+    "album": "Pressure Machine",
+    "cover": "covers/killers/pressure.jpg"
+  },
+  {
+    "title": "In The Car Outside",
+    "artist": "The Killers",
+    "totalStreams": 5757871,
+    "dailyStreams": 1293,
+    "album": "Pressure Machine",
+    "cover": "covers/killers/pressure.jpg"
+  },
+  {
+    "title": "In Another Life",
+    "artist": "The Killers",
+    "totalStreams": 5080809,
+    "dailyStreams": 1645,
+    "album": "Pressure Machine",
+    "cover": "covers/killers/pressure.jpg"
+  },
+  {
+    "title": "Desperate Things",
+    "artist": "The Killers",
+    "totalStreams": 3735070,
+    "dailyStreams": 636,
+    "album": "Pressure Machine",
+    "cover": "covers/killers/pressure.jpg"
+  },
+  {
+    "title": "Pressure Machine",
+    "artist": "The Killers",
+    "totalStreams": 6526783,
+    "dailyStreams": 2601,
+    "album": "Pressure Machine",
+    "cover": "covers/killers/pressure.jpg"
+  },
+  {
+    "title": "The Getting By",
+    "artist": "The Killers",
+    "totalStreams": 2884478,
+    "dailyStreams": 569,
+    "album": "Pressure Machine",
+    "cover": "covers/killers/pressure.jpg"
+  },
+  {
+    "title": "Tidal Wave - Bonus Track",
+    "artist": "The Killers",
+    "totalStreams": 2800031,
+    "dailyStreams": 724,
+    "album": "Day & Age (Bonus Tracks)",
+    "cover": "covers/killers/day.jpg"
+  },
+  {
+    "title": "Forget About What I Said - Bonus Track",
+    "artist": "The Killers",
+    "totalStreams": 2916826,
+    "dailyStreams": 1075,
+    "album": "Day & Age (Bonus Tracks)",
+    "cover": "covers/killers/day.jpg"
+  },
+  {
+    "title": "Carry Me Home",
+    "artist": "The Killers",
+    "totalStreams": 6927122,
+    "dailyStreams": 958,
+    "album": "Battle Born (Japan Version)",
+    "cover": "covers/killers/battle.jpg"
+  },
+  {
+    "title": "Prize Fighter",
+    "artist": "The Killers",
+    "totalStreams": 5134241,
+    "dailyStreams": 706,
+    "album": "Battle Born (Japan Version)",
+    "cover": "covers/killers/battle.jpg"
+  },
+  {
+    "title": "Money On Straight",
+    "artist": "The Killers",
+    "totalStreams": 2931724,
+    "dailyStreams": 257,
+    "album": "Wonderful Wonderful (Deluxe)",
+    "cover": "covers/killers/wonderfulD.jpeg"
+  },
+  {
+    "title": "C'est La Vie",
+    "artist": "The Killers",
+    "totalStreams": 4096339,
+    "dailyStreams": 310,
+    "album": "Imploding the Mirage (Deluxe)",
+    "cover": "covers/killers/mirageD.jpeg"
+  },
+  {
+    "title": "Get Trashed",
+    "artist": "The Killers",
+    "totalStreams": 156567,
+    "dailyStreams": 20,
+    "album": "Smile Like You Mean It (Remixes)",
+    "cover": "covers/killers/smile.jpeg"
+  },
+  {
+    "title": "Tranquilize",
+    "artist": "The Killers",
+    "totalStreams": 19376060,
+    "dailyStreams": 3378,
+    "album": "Sawdust",
+    "cover": "covers/killers/sawdust.jpg"
+  },
+  {
+    "title": "Shadowplay",
+    "artist": "The Killers",
+    "totalStreams": 38046168,
+    "dailyStreams": 6514,
+    "album": "Sawdust",
+    "cover": "covers/killers/sawdust.jpg"
+  },
+  {
+    "title": "All The Pretty Faces",
+    "artist": "The Killers",
+    "totalStreams": 10192238,
+    "dailyStreams": 1654,
+    "album": "Sawdust",
+    "cover": "covers/killers/sawdust.jpg"
+  },
+  {
+    "title": "Leave The Bourbon On The Shelf",
+    "artist": "The Killers",
+    "totalStreams": 11840759,
+    "dailyStreams": 2359,
+    "album": "Sawdust",
+    "cover": "covers/killers/sawdust.jpg"
+  },
+  {
+    "title": "Sweet Talk",
+    "artist": "The Killers",
+    "totalStreams": 18022540,
+    "dailyStreams": 3073,
+    "album": "Sawdust",
+    "cover": "covers/killers/sawdust.jpg"
+  },
+  {
+    "title": "Under The Gun",
+    "artist": "The Killers",
+    "totalStreams": 16207885,
+    "dailyStreams": 3398,
+    "album": "Sawdust",
+    "cover": "covers/killers/sawdust.jpg"
+  },
+  {
+    "title": "Where The White Boys Dance",
+    "artist": "The Killers",
+    "totalStreams": 5385128,
+    "dailyStreams": 498,
+    "album": "Sawdust",
+    "cover": "covers/killers/sawdust.jpg"
+  },
+  {
+    "title": "Show You How",
+    "artist": "The Killers",
+    "totalStreams": 5114655,
+    "dailyStreams": 573,
+    "album": "Sawdust",
+    "cover": "covers/killers/sawdust.jpg"
+  },
+  {
+    "title": "Move Away",
+    "artist": "The Killers",
+    "totalStreams": 5352865,
+    "dailyStreams": 2273,
+    "album": "Sawdust",
+    "cover": "covers/killers/sawdust.jpg"
+  },
+  {
+    "title": "Who Let You Go?",
+    "artist": "The Killers",
+    "totalStreams": 4209743,
+    "dailyStreams": 436,
+    "album": "Sawdust",
+    "cover": "covers/killers/sawdust.jpg"
+  },
+  {
+    "title": "The Ballad Of Michael Valentine",
+    "artist": "The Killers",
+    "totalStreams": 5013866,
+    "dailyStreams": 528,
+    "album": "Sawdust",
+    "cover": "covers/killers/sawdust.jpg"
+  },
+  {
+    "title": "Ruby, Don't Take Your Love To Town",
+    "artist": "The Killers",
+    "totalStreams": 5531550,
+    "dailyStreams": 604,
+    "album": "Sawdust",
+    "cover": "covers/killers/sawdust.jpg"
+  },
+  {
+    "title": "Daddy's Eyes",
+    "artist": "The Killers",
+    "totalStreams": 5187858,
+    "dailyStreams": 551,
+    "album": "Sawdust",
+    "cover": "covers/killers/sawdust.jpg"
+  },
+  {
+    "title": "Romeo And Juliet",
+    "artist": "The Killers",
+    "totalStreams": 56429710,
+    "dailyStreams": 8080,
+    "album": "Sawdust",
+    "cover": "covers/killers/sawdust.jpg"
+  },
+  {
+    "title": "A Crippling Blow",
+    "artist": "The Killers",
+    "totalStreams": 1692179,
+    "dailyStreams": 199,
+    "album": "Human",
+    "cover": "covers/killers/.jpeg"
+  },
+  {
+    "title": "Four Winds",
+    "artist": "The Killers",
+    "totalStreams": 2653142,
+    "dailyStreams": 766,
+    "album": "Spaceman (Remixes)",
+    "cover": "covers/killers/spaceman.jpg"
+  },
+  {
+    "title": "Shot At The Night",
+    "artist": "The Killers",
+    "totalStreams": 180286120,
+    "dailyStreams": 55276,
+    "album": "Direct Hits",
+    "cover": "covers/killers/directhits.jpg"
+  },
+  {
+    "title": "Just Another Girl",
+    "artist": "The Killers",
+    "totalStreams": 140444323,
+    "dailyStreams": 34530,
+    "album": "Direct Hits",
+    "cover": "covers/killers/directhits.jpg"
+  },
+  {
+    "title": "Peace Of Mind",
+    "artist": "The Killers",
+    "totalStreams": 9363976,
+    "dailyStreams": 490,
+    "album": "Peace Of Mind",
+    "cover": "covers/killers/peace-of-mind.jpeg"
+  },
+  {
+    "title": "Land Of The Free",
+    "artist": "The Killers",
+    "totalStreams": 12368283,
+    "dailyStreams": 660,
+    "album": "Land Of The Free",
+    "cover": "covers/killers/land-of-the-free.jpg"
+  },
+  {
+    "title": "boy",
+    "artist": "The Killers",
+    "totalStreams": 38065932,
+    "dailyStreams": 9799,
+    "album": "Rebel Diamonds",
+    "cover": "covers/killers/diamonds.jpg"
+  },
+  {
+    "title": "Your Side of Town",
+    "artist": "The Killers",
+    "totalStreams": 18307974,
+    "dailyStreams": 4773,
+    "album": "Rebel Diamonds",
+    "cover": "covers/killers/diamonds.jpg"
+  },
+  {
+    "title": "Spirit",
+    "artist": "The Killers",
+    "totalStreams": 5457927,
+    "dailyStreams": 1892,
+    "album": "Rebel Diamonds",
+    "cover": "covers/killers/diamonds.jpg"
+  },
+  {
+    "title": "Bright Lights",
+    "artist": "The Killers",
+    "totalStreams": 12874023,
+    "dailyStreams": 6778,
+    "album": "Bright Lights",
+    "cover": "covers/killers/brightLights.jpg"
+  }
+]

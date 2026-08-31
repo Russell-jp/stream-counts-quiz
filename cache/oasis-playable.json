@@ -1,0 +1,986 @@
+[
+  {
+    "title": "Rock 'N' Roll Star",
+    "artist": "Oasis",
+    "totalStreams": 116532759,
+    "dailyStreams": 34815,
+    "album": "Definitely Maybe",
+    "cover": "covers/oasis/definitely.jpg"
+  },
+  {
+    "title": "Shakermaker",
+    "artist": "Oasis",
+    "totalStreams": 39165194,
+    "dailyStreams": 10386,
+    "album": "Definitely Maybe",
+    "cover": "covers/oasis/definitely.jpg"
+  },
+  {
+    "title": "Live Forever",
+    "artist": "Oasis",
+    "totalStreams": 457852649,
+    "dailyStreams": 192652,
+    "album": "Definitely Maybe",
+    "cover": "covers/oasis/definitely.jpg"
+  },
+  {
+    "title": "Cloudburst",
+    "artist": "Oasis",
+    "totalStreams": 6319235,
+    "dailyStreams": 2642,
+    "album": "Definitely Maybe",
+    "cover": "covers/oasis/definitely.jpg"
+  },
+  {
+    "title": "Up In The Sky",
+    "artist": "Oasis",
+    "totalStreams": 28091215,
+    "dailyStreams": 8225,
+    "album": "Definitely Maybe",
+    "cover": "covers/oasis/definitely.jpg"
+  },
+  {
+    "title": "Sad Song",
+    "artist": "Oasis",
+    "totalStreams": 17814677,
+    "dailyStreams": 7959,
+    "album": "Definitely Maybe",
+    "cover": "covers/oasis/definitely.jpg"
+  },
+  {
+    "title": "Columbia",
+    "artist": "Oasis",
+    "totalStreams": 41925977,
+    "dailyStreams": 16189,
+    "album": "Definitely Maybe",
+    "cover": "covers/oasis/definitely.jpg"
+  },
+  {
+    "title": "Supersonic",
+    "artist": "Oasis",
+    "totalStreams": 302365966,
+    "dailyStreams": 131814,
+    "album": "Definitely Maybe",
+    "cover": "covers/oasis/definitely.jpg"
+  },
+  {
+    "title": "Bring It On Down",
+    "artist": "Oasis",
+    "totalStreams": 36382884,
+    "dailyStreams": 13836,
+    "album": "Definitely Maybe",
+    "cover": "covers/oasis/definitely.jpg"
+  },
+  {
+    "title": "Cigarettes & Alcohol",
+    "artist": "Oasis",
+    "totalStreams": 117955272,
+    "dailyStreams": 45078,
+    "album": "Definitely Maybe",
+    "cover": "covers/oasis/definitely.jpg"
+  },
+  {
+    "title": "Digsy's Dinner",
+    "artist": "Oasis",
+    "totalStreams": 28539126,
+    "dailyStreams": 13473,
+    "album": "Definitely Maybe",
+    "cover": "covers/oasis/definitely.jpg"
+  },
+  {
+    "title": "Slide Away",
+    "artist": "Oasis",
+    "totalStreams": 174592169,
+    "dailyStreams": 128097,
+    "album": "Definitely Maybe",
+    "cover": "covers/oasis/definitely.jpg"
+  },
+  {
+    "title": "Married With Children",
+    "artist": "Oasis",
+    "totalStreams": 151869906,
+    "dailyStreams": 92005,
+    "album": "Definitely Maybe",
+    "cover": "covers/oasis/definitely.jpg"
+  },
+  {
+    "title": "Hello",
+    "artist": "Oasis",
+    "totalStreams": 69757125,
+    "dailyStreams": 28821,
+    "album": "(What's the Story) Morning Glory?",
+    "cover": "covers/oasis/morning.jpg"
+  },
+  {
+    "title": "Roll with It",
+    "artist": "Oasis",
+    "totalStreams": 126445230,
+    "dailyStreams": 49770,
+    "album": "(What's the Story) Morning Glory?",
+    "cover": "covers/oasis/morning.jpg"
+  },
+  {
+    "title": "Wonderwall",
+    "artist": "Oasis",
+    "totalStreams": 3015138879,
+    "dailyStreams": 2519009,
+    "album": "(What's the Story) Morning Glory?",
+    "cover": "covers/oasis/morning.jpg"
+  },
+  {
+    "title": "Don't Look Back in Anger",
+    "artist": "Oasis",
+    "totalStreams": 1442019713,
+    "dailyStreams": 864524,
+    "album": "(What's the Story) Morning Glory?",
+    "cover": "covers/oasis/morning.jpg"
+  },
+  {
+    "title": "Hey Now",
+    "artist": "Oasis",
+    "totalStreams": 49835661,
+    "dailyStreams": 22547,
+    "album": "(What's the Story) Morning Glory?",
+    "cover": "covers/oasis/morning.jpg"
+  },
+  {
+    "title": "The Swamp Song - Version 1",
+    "artist": "Oasis",
+    "totalStreams": 16104008,
+    "dailyStreams": 4354,
+    "album": "(What's the Story) Morning Glory?",
+    "cover": "covers/oasis/morning.jpg"
+  },
+  {
+    "title": "Some Might Say",
+    "artist": "Oasis",
+    "totalStreams": 138602232,
+    "dailyStreams": 55668,
+    "album": "(What's the Story) Morning Glory?",
+    "cover": "covers/oasis/morning.jpg"
+  },
+  {
+    "title": "Cast No Shadow",
+    "artist": "Oasis",
+    "totalStreams": 72520106,
+    "dailyStreams": 31257,
+    "album": "(What's the Story) Morning Glory?",
+    "cover": "covers/oasis/morning.jpg"
+  },
+  {
+    "title": "She's Electric",
+    "artist": "Oasis",
+    "totalStreams": 236794373,
+    "dailyStreams": 116379,
+    "album": "(What's the Story) Morning Glory?",
+    "cover": "covers/oasis/morning.jpg"
+  },
+  {
+    "title": "Morning Glory",
+    "artist": "Oasis",
+    "totalStreams": 135135517,
+    "dailyStreams": 56703,
+    "album": "(What's the Story) Morning Glory?",
+    "cover": "covers/oasis/morning.jpg"
+  },
+  {
+    "title": "The Swamp Song - Version 2",
+    "artist": "Oasis",
+    "totalStreams": 13382642,
+    "dailyStreams": 3378,
+    "album": "(What's the Story) Morning Glory?",
+    "cover": "covers/oasis/morning.jpg"
+  },
+  {
+    "title": "Champagne Supernova",
+    "artist": "Oasis",
+    "totalStreams": 664224892,
+    "dailyStreams": 509326,
+    "album": "(What's the Story) Morning Glory?",
+    "cover": "covers/oasis/morning.jpg"
+  },
+  {
+    "title": "D'You Know What I Mean?",
+    "artist": "Oasis",
+    "totalStreams": 62687498,
+    "dailyStreams": 26218,
+    "album": "Be Here Now",
+    "cover": "covers/oasis/beHereNow.jpeg"
+  },
+  {
+    "title": "My Big Mouth",
+    "artist": "Oasis",
+    "totalStreams": 6956272,
+    "dailyStreams": 2352,
+    "album": "Be Here Now",
+    "cover": "covers/oasis/beHereNow.jpeg"
+  },
+  {
+    "title": "Magic Pie",
+    "artist": "Oasis",
+    "totalStreams": 9344182,
+    "dailyStreams": 1619,
+    "album": "Be Here Now",
+    "cover": "covers/oasis/beHereNow.jpeg"
+  },
+  {
+    "title": "Stand By Me",
+    "artist": "Oasis",
+    "totalStreams": 424784747,
+    "dailyStreams": 252778,
+    "album": "Be Here Now",
+    "cover": "covers/oasis/beHereNow.jpeg"
+  },
+  {
+    "title": "I Hope, I Think, I Know",
+    "artist": "Oasis",
+    "totalStreams": 15084984,
+    "dailyStreams": 7602,
+    "album": "Be Here Now",
+    "cover": "covers/oasis/beHereNow.jpeg"
+  },
+  {
+    "title": "The Girl In The Dirty Shirt",
+    "artist": "Oasis",
+    "totalStreams": 16518885,
+    "dailyStreams": 14683,
+    "album": "Be Here Now",
+    "cover": "covers/oasis/beHereNow.jpeg"
+  },
+  {
+    "title": "Fade In-Out",
+    "artist": "Oasis",
+    "totalStreams": 7591942,
+    "dailyStreams": 2617,
+    "album": "Be Here Now",
+    "cover": "covers/oasis/beHereNow.jpeg"
+  },
+  {
+    "title": "Don't Go Away",
+    "artist": "Oasis",
+    "totalStreams": 160147444,
+    "dailyStreams": 63606,
+    "album": "Be Here Now",
+    "cover": "covers/oasis/beHereNow.jpeg"
+  },
+  {
+    "title": "Be Here Now",
+    "artist": "Oasis",
+    "totalStreams": 15039139,
+    "dailyStreams": 8335,
+    "album": "Be Here Now",
+    "cover": "covers/oasis/beHereNow.jpeg"
+  },
+  {
+    "title": "All Around The World",
+    "artist": "Oasis",
+    "totalStreams": 64095481,
+    "dailyStreams": 21501,
+    "album": "Be Here Now",
+    "cover": "covers/oasis/beHereNow.jpeg"
+  },
+  {
+    "title": "It's Gettin' Better (Man!!)",
+    "artist": "Oasis",
+    "totalStreams": 6876398,
+    "dailyStreams": 962,
+    "album": "Be Here Now",
+    "cover": "covers/oasis/beHereNow.jpeg"
+  },
+  {
+    "title": "All Around The World (Reprise)",
+    "artist": "Oasis",
+    "totalStreams": 3584426,
+    "dailyStreams": 875,
+    "album": "Be Here Now",
+    "cover": "covers/oasis/beHereNow.jpeg"
+  },
+  {
+    "title": "Fuckin' in the Bushes",
+    "artist": "Oasis",
+    "totalStreams": 42966594,
+    "dailyStreams": 14543,
+    "album": "Standing on the Shoulder of Giants",
+    "cover": "covers/oasis/standing.jpg"
+  },
+  {
+    "title": "Go Let It Out",
+    "artist": "Oasis",
+    "totalStreams": 41626661,
+    "dailyStreams": 12447,
+    "album": "Standing on the Shoulder of Giants",
+    "cover": "covers/oasis/standing.jpg"
+  },
+  {
+    "title": "Who Feels Love?",
+    "artist": "Oasis",
+    "totalStreams": 12329643,
+    "dailyStreams": 2756,
+    "album": "Standing on the Shoulder of Giants",
+    "cover": "covers/oasis/standing.jpg"
+  },
+  {
+    "title": "Put Yer Money Where Yer Mouth Is",
+    "artist": "Oasis",
+    "totalStreams": 3870881,
+    "dailyStreams": 1100,
+    "album": "Standing on the Shoulder of Giants",
+    "cover": "covers/oasis/standing.jpg"
+  },
+  {
+    "title": "Little James",
+    "artist": "Oasis",
+    "totalStreams": 5279055,
+    "dailyStreams": 1403,
+    "album": "Standing on the Shoulder of Giants",
+    "cover": "covers/oasis/standing.jpg"
+  },
+  {
+    "title": "Gas Panic!",
+    "artist": "Oasis",
+    "totalStreams": 22432086,
+    "dailyStreams": 5693,
+    "album": "Standing on the Shoulder of Giants",
+    "cover": "covers/oasis/standing.jpg"
+  },
+  {
+    "title": "Where Did It All Go Wrong?",
+    "artist": "Oasis",
+    "totalStreams": 18248556,
+    "dailyStreams": 7987,
+    "album": "Standing on the Shoulder of Giants",
+    "cover": "covers/oasis/standing.jpg"
+  },
+  {
+    "title": "Sunday Morning Call",
+    "artist": "Oasis",
+    "totalStreams": 24015037,
+    "dailyStreams": 5607,
+    "album": "Standing on the Shoulder of Giants",
+    "cover": "covers/oasis/standing.jpg"
+  },
+  {
+    "title": "I Can See A Liar",
+    "artist": "Oasis",
+    "totalStreams": 3851519,
+    "dailyStreams": 1110,
+    "album": "Standing on the Shoulder of Giants",
+    "cover": "covers/oasis/standing.jpg"
+  },
+  {
+    "title": "Roll It Over",
+    "artist": "Oasis",
+    "totalStreams": 11117041,
+    "dailyStreams": 2405,
+    "album": "Standing on the Shoulder of Giants",
+    "cover": "covers/oasis/standing.jpg"
+  },
+  {
+    "title": "Let's All Make Believe",
+    "artist": "Oasis",
+    "totalStreams": 6000580,
+    "dailyStreams": 2181,
+    "album": "Standing on the Shoulder of Giants",
+    "cover": "covers/oasis/standing.jpg"
+  },
+  {
+    "title": "The Hindu Times",
+    "artist": "Oasis",
+    "totalStreams": 33150567,
+    "dailyStreams": 9087,
+    "album": "Heathen Chemistry",
+    "cover": "covers/oasis/heathen.jpg"
+  },
+  {
+    "title": "Force Of Nature",
+    "artist": "Oasis",
+    "totalStreams": 8808543,
+    "dailyStreams": 2450,
+    "album": "Heathen Chemistry",
+    "cover": "covers/oasis/heathen.jpg"
+  },
+  {
+    "title": "Hung In A Bad Place",
+    "artist": "Oasis",
+    "totalStreams": 5204514,
+    "dailyStreams": 1410,
+    "album": "Heathen Chemistry",
+    "cover": "covers/oasis/heathen.jpg"
+  },
+  {
+    "title": "Stop Crying Your Heart Out",
+    "artist": "Oasis",
+    "totalStreams": 634362445,
+    "dailyStreams": 366469,
+    "album": "Heathen Chemistry",
+    "cover": "covers/oasis/heathen.jpg"
+  },
+  {
+    "title": "Songbird",
+    "artist": "Oasis",
+    "totalStreams": 101042642,
+    "dailyStreams": 25864,
+    "album": "Heathen Chemistry",
+    "cover": "covers/oasis/heathen.jpg"
+  },
+  {
+    "title": "Little by Little",
+    "artist": "Oasis",
+    "totalStreams": 139367560,
+    "dailyStreams": 53448,
+    "album": "Heathen Chemistry",
+    "cover": "covers/oasis/heathen.jpg"
+  },
+  {
+    "title": "A Quick Peep",
+    "artist": "Oasis",
+    "totalStreams": 3888394,
+    "dailyStreams": 748,
+    "album": "Heathen Chemistry",
+    "cover": "covers/oasis/heathen.jpg"
+  },
+  {
+    "title": "(Probably) All In The Mind",
+    "artist": "Oasis",
+    "totalStreams": 4181449,
+    "dailyStreams": 1153,
+    "album": "Heathen Chemistry",
+    "cover": "covers/oasis/heathen.jpg"
+  },
+  {
+    "title": "She Is Love",
+    "artist": "Oasis",
+    "totalStreams": 23809668,
+    "dailyStreams": 5848,
+    "album": "Heathen Chemistry",
+    "cover": "covers/oasis/heathen.jpg"
+  },
+  {
+    "title": "Born On A Different Cloud",
+    "artist": "Oasis",
+    "totalStreams": 5277597,
+    "dailyStreams": 1316,
+    "album": "Heathen Chemistry",
+    "cover": "covers/oasis/heathen.jpg"
+  },
+  {
+    "title": "Better Man",
+    "artist": "Oasis",
+    "totalStreams": 2019699,
+    "dailyStreams": 418,
+    "album": "Heathen Chemistry",
+    "cover": "covers/oasis/heathen.jpg"
+  },
+  {
+    "title": "Turn Up The Sun",
+    "artist": "Oasis",
+    "totalStreams": 9342714,
+    "dailyStreams": 2135,
+    "album": "Don't Believe the Truth",
+    "cover": "covers/oasis/truth.png"
+  },
+  {
+    "title": "Mucky Fingers",
+    "artist": "Oasis",
+    "totalStreams": 4456915,
+    "dailyStreams": 975,
+    "album": "Don't Believe the Truth",
+    "cover": "covers/oasis/truth.png"
+  },
+  {
+    "title": "Lyla",
+    "artist": "Oasis",
+    "totalStreams": 52140260,
+    "dailyStreams": 13925,
+    "album": "Don't Believe the Truth",
+    "cover": "covers/oasis/truth.png"
+  },
+  {
+    "title": "Love Like A Bomb",
+    "artist": "Oasis",
+    "totalStreams": 4547765,
+    "dailyStreams": 971,
+    "album": "Don't Believe the Truth",
+    "cover": "covers/oasis/truth.png"
+  },
+  {
+    "title": "The Importance of Being Idle",
+    "artist": "Oasis",
+    "totalStreams": 68340286,
+    "dailyStreams": 18826,
+    "album": "Don't Believe the Truth",
+    "cover": "covers/oasis/truth.png"
+  },
+  {
+    "title": "The Meaning Of Soul",
+    "artist": "Oasis",
+    "totalStreams": 3971244,
+    "dailyStreams": 811,
+    "album": "Don't Believe the Truth",
+    "cover": "covers/oasis/truth.png"
+  },
+  {
+    "title": "Guess God Thinks I'm Abel",
+    "artist": "Oasis",
+    "totalStreams": 4550500,
+    "dailyStreams": 883,
+    "album": "Don't Believe the Truth",
+    "cover": "covers/oasis/truth.png"
+  },
+  {
+    "title": "Part Of The Queue",
+    "artist": "Oasis",
+    "totalStreams": 4318308,
+    "dailyStreams": 970,
+    "album": "Don't Believe the Truth",
+    "cover": "covers/oasis/truth.png"
+  },
+  {
+    "title": "Keep The Dream Alive",
+    "artist": "Oasis",
+    "totalStreams": 7279982,
+    "dailyStreams": 5905,
+    "album": "Don't Believe the Truth",
+    "cover": "covers/oasis/truth.png"
+  },
+  {
+    "title": "A Bell Will Ring",
+    "artist": "Oasis",
+    "totalStreams": 3694575,
+    "dailyStreams": 877,
+    "album": "Don't Believe the Truth",
+    "cover": "covers/oasis/truth.png"
+  },
+  {
+    "title": "Let There Be Love",
+    "artist": "Oasis",
+    "totalStreams": 58332056,
+    "dailyStreams": 22564,
+    "album": "Don't Believe the Truth",
+    "cover": "covers/oasis/truth.png"
+  },
+  {
+    "title": "Sitting Here In Silence (On My Own)",
+    "artist": "Oasis",
+    "totalStreams": 1253361,
+    "dailyStreams": 818,
+    "album": "Don't Believe the Truth",
+    "cover": "covers/oasis/truth.png"
+  },
+  {
+    "title": "Bag It Up",
+    "artist": "Oasis",
+    "totalStreams": 11918968,
+    "dailyStreams": 1481,
+    "album": "Dig Out Your Soul",
+    "cover": "covers/oasis/dig.jpg"
+  },
+  {
+    "title": "The Turning",
+    "artist": "Oasis",
+    "totalStreams": 7929938,
+    "dailyStreams": 1222,
+    "album": "Dig Out Your Soul",
+    "cover": "covers/oasis/dig.jpg"
+  },
+  {
+    "title": "Waiting For The Rapture",
+    "artist": "Oasis",
+    "totalStreams": 7951386,
+    "dailyStreams": 1147,
+    "album": "Dig Out Your Soul",
+    "cover": "covers/oasis/dig.jpg"
+  },
+  {
+    "title": "The Shock of the Lightning",
+    "artist": "Oasis",
+    "totalStreams": 30405544,
+    "dailyStreams": 5875,
+    "album": "Dig Out Your Soul",
+    "cover": "covers/oasis/dig.jpg"
+  },
+  {
+    "title": "I'm Outta Time",
+    "artist": "Oasis",
+    "totalStreams": 46463047,
+    "dailyStreams": 17783,
+    "album": "Dig Out Your Soul",
+    "cover": "covers/oasis/dig.jpg"
+  },
+  {
+    "title": "(Get Off Your) High Horse Lady",
+    "artist": "Oasis",
+    "totalStreams": 5644350,
+    "dailyStreams": 699,
+    "album": "Dig Out Your Soul",
+    "cover": "covers/oasis/dig.jpg"
+  },
+  {
+    "title": "Falling Down",
+    "artist": "Oasis",
+    "totalStreams": 19245626,
+    "dailyStreams": 3737,
+    "album": "Dig Out Your Soul",
+    "cover": "covers/oasis/dig.jpg"
+  },
+  {
+    "title": "To Be Where There's Life",
+    "artist": "Oasis",
+    "totalStreams": 4961588,
+    "dailyStreams": 692,
+    "album": "Dig Out Your Soul",
+    "cover": "covers/oasis/dig.jpg"
+  },
+  {
+    "title": "Ain't Got Nothin'",
+    "artist": "Oasis",
+    "totalStreams": 4017823,
+    "dailyStreams": 488,
+    "album": "Dig Out Your Soul",
+    "cover": "covers/oasis/dig.jpg"
+  },
+  {
+    "title": "The Nature Of Reality",
+    "artist": "Oasis",
+    "totalStreams": 4038570,
+    "dailyStreams": 584,
+    "album": "Dig Out Your Soul",
+    "cover": "covers/oasis/dig.jpg"
+  },
+  {
+    "title": "Soldier On",
+    "artist": "Oasis",
+    "totalStreams": 4702045,
+    "dailyStreams": 719,
+    "album": "Dig Out Your Soul",
+    "cover": "covers/oasis/dig.jpg"
+  },
+  {
+    "title": "Acquiesce",
+    "artist": "Oasis",
+    "totalStreams": 117972891,
+    "dailyStreams": 55675,
+    "album": "The Masterplan",
+    "cover": "covers/oasis/masterplan.jpg"
+  },
+  {
+    "title": "Underneath the Sky",
+    "artist": "Oasis",
+    "totalStreams": 14469378,
+    "dailyStreams": 3982,
+    "album": "The Masterplan",
+    "cover": "covers/oasis/masterplan.jpg"
+  },
+  {
+    "title": "Talk Tonight",
+    "artist": "Oasis",
+    "totalStreams": 100933409,
+    "dailyStreams": 32726,
+    "album": "The Masterplan",
+    "cover": "covers/oasis/masterplan.jpg"
+  },
+  {
+    "title": "Going Nowhere",
+    "artist": "Oasis",
+    "totalStreams": 12373066,
+    "dailyStreams": 3573,
+    "album": "The Masterplan",
+    "cover": "covers/oasis/masterplan.jpg"
+  },
+  {
+    "title": "Fade Away",
+    "artist": "Oasis",
+    "totalStreams": 35085283,
+    "dailyStreams": 14087,
+    "album": "The Masterplan",
+    "cover": "covers/oasis/masterplan.jpg"
+  },
+  {
+    "title": "The Swamp Song",
+    "artist": "Oasis",
+    "totalStreams": 8321538,
+    "dailyStreams": 2506,
+    "album": "The Masterplan",
+    "cover": "covers/oasis/masterplan.jpg"
+  },
+  {
+    "title": "I Am The Walrus – Live Glasgow Cathouse June '94",
+    "artist": "Oasis",
+    "totalStreams": 7436262,
+    "dailyStreams": 904,
+    "album": "The Masterplan",
+    "cover": "covers/oasis/masterplan.jpg"
+  },
+  {
+    "title": "Listen Up",
+    "artist": "Oasis",
+    "totalStreams": 18699510,
+    "dailyStreams": 15763,
+    "album": "The Masterplan",
+    "cover": "covers/oasis/masterplan.jpg"
+  },
+  {
+    "title": "Rockin' Chair",
+    "artist": "Oasis",
+    "totalStreams": 28628562,
+    "dailyStreams": 15570,
+    "album": "The Masterplan",
+    "cover": "covers/oasis/masterplan.jpg"
+  },
+  {
+    "title": "Half the World Away",
+    "artist": "Oasis",
+    "totalStreams": 200002008,
+    "dailyStreams": 56661,
+    "album": "The Masterplan",
+    "cover": "covers/oasis/masterplan.jpg"
+  },
+  {
+    "title": "(It's Good) To Be Free",
+    "artist": "Oasis",
+    "totalStreams": 14267966,
+    "dailyStreams": 4969,
+    "album": "The Masterplan",
+    "cover": "covers/oasis/masterplan.jpg"
+  },
+  {
+    "title": "Stay Young",
+    "artist": "Oasis",
+    "totalStreams": 24668094,
+    "dailyStreams": 10285,
+    "album": "The Masterplan",
+    "cover": "covers/oasis/masterplan.jpg"
+  },
+  {
+    "title": "Headshrinker",
+    "artist": "Oasis",
+    "totalStreams": 12622984,
+    "dailyStreams": 7158,
+    "album": "The Masterplan",
+    "cover": "covers/oasis/masterplan.jpg"
+  },
+  {
+    "title": "The Masterplan",
+    "artist": "Oasis",
+    "totalStreams": 99539963,
+    "dailyStreams": 39348,
+    "album": "The Masterplan",
+    "cover": "covers/oasis/masterplan.jpg"
+  },
+  {
+    "title": "One Way Road",
+    "artist": "Oasis",
+    "totalStreams": 617954,
+    "dailyStreams": 244,
+    "album": "Who Feels Love?",
+    "cover": "covers/oasis/whoFeelsLove.jpg"
+  },
+  {
+    "title": "Carry Us All",
+    "artist": "Oasis",
+    "totalStreams": 995674,
+    "dailyStreams": 742,
+    "album": "Sunday Morning Call",
+    "cover": "covers/oasis/sunday.jpg"
+  },
+  {
+    "title": "Full On",
+    "artist": "Oasis",
+    "totalStreams": 793104,
+    "dailyStreams": 594,
+    "album": "Sunday Morning Call",
+    "cover": "covers/oasis/sunday.jpg"
+  },
+  {
+    "title": "Just Getting Older",
+    "artist": "Oasis",
+    "totalStreams": 1222825,
+    "dailyStreams": 974,
+    "album": "The Hindu Times",
+    "cover": "covers/oasis/theHindu.jpg"
+  },
+  {
+    "title": "Idler's Dream",
+    "artist": "Oasis",
+    "totalStreams": 4605430,
+    "dailyStreams": 1540,
+    "album": "The Hindu Times",
+    "cover": "covers/oasis/theHindu.jpg"
+  },
+  {
+    "title": "Thank You For The Good Times",
+    "artist": "Oasis",
+    "totalStreams": 1083740,
+    "dailyStreams": 603,
+    "album": "Stop Crying Your Heart Out",
+    "cover": "covers/oasis/scyho.jpg"
+  },
+  {
+    "title": "Shout It Out Loud",
+    "artist": "Oasis",
+    "totalStreams": 1579943,
+    "dailyStreams": 884,
+    "album": "Stop Crying Your Heart Out",
+    "cover": "covers/oasis/scyho.jpg"
+  },
+  {
+    "title": "My Generation",
+    "artist": "Oasis",
+    "totalStreams": 2374241,
+    "dailyStreams": 689,
+    "album": "Little By Little/ She Is Love",
+    "cover": "covers/oasis/little.jpg"
+  },
+  {
+    "title": "(You've Got) The Heart Of A Star",
+    "artist": "Oasis",
+    "totalStreams": 1220310,
+    "dailyStreams": 545,
+    "album": "Songbird",
+    "cover": "covers/oasis/songbird.jpg"
+  },
+  {
+    "title": "Eyeball Tickler",
+    "artist": "Oasis",
+    "totalStreams": 871555,
+    "dailyStreams": 268,
+    "album": "Lyla",
+    "cover": "covers/oasis/lyla.jpg"
+  },
+  {
+    "title": "Won't Let You Down",
+    "artist": "Oasis",
+    "totalStreams": 874803,
+    "dailyStreams": 242,
+    "album": "Lyla",
+    "cover": "covers/oasis/lyla.jpg"
+  },
+  {
+    "title": "Pass Me Down The Wine",
+    "artist": "Oasis",
+    "totalStreams": 1108538,
+    "dailyStreams": 395,
+    "album": "The Importance OF Being Idle",
+    "cover": "covers/oasis/importance.jpg"
+  },
+  {
+    "title": "The Quiet Ones",
+    "artist": "Oasis",
+    "totalStreams": 572163,
+    "dailyStreams": 171,
+    "album": "The Importance OF Being Idle",
+    "cover": "covers/oasis/importance.jpg"
+  },
+  {
+    "title": "Lord Don't Slow Me Down",
+    "artist": "Oasis",
+    "totalStreams": 9287040,
+    "dailyStreams": 1236,
+    "album": "Lord Don't Slow Me Down",
+    "cover": "covers/oasis/lord.jpg"
+  },
+  {
+    "title": "Those Swollen Hand Blues",
+    "artist": "Oasis",
+    "totalStreams": 749928,
+    "dailyStreams": 188,
+    "album": "Falling Down",
+    "cover": "covers/oasis/fallingDown.jpg"
+  },
+  {
+    "title": "Take Me Away",
+    "artist": "Oasis",
+    "totalStreams": 11511860,
+    "dailyStreams": 3467,
+    "album": "Definitely Maybe (Remastered)",
+    "cover": "covers/oasis/definitelyDeluxe.jpeg"
+  },
+  {
+    "title": "Cum On Feel the Noize",
+    "artist": "Oasis",
+    "totalStreams": 16838554,
+    "dailyStreams": 8731,
+    "album": "(What's the Story) Morning Glory? Deluxe",
+    "cover": "covers/oasis/morningDeluxe.jpg"
+  },
+  {
+    "title": "Round Are Way",
+    "artist": "Oasis",
+    "totalStreams": 14078514,
+    "dailyStreams": 3604,
+    "album": "(What's the Story) Morning Glory? Deluxe",
+    "cover": "covers/oasis/morningDeluxe.jpg"
+  },
+  {
+    "title": "Bonehead's Bank Holiday",
+    "artist": "Oasis",
+    "totalStreams": 26220069,
+    "dailyStreams": 21185,
+    "album": "(What's the Story) Morning Glory? Deluxe",
+    "cover": "covers/oasis/morningDeluxe.jpg"
+  },
+  {
+    "title": "You've Got to Hide Your Love Away",
+    "artist": "Oasis",
+    "totalStreams": 6250021,
+    "dailyStreams": 1647,
+    "album": "(What's the Story) Morning Glory? Deluxe",
+    "cover": "covers/oasis/morningDeluxe.jpg"
+  },
+  {
+    "title": "It's Better People",
+    "artist": "Oasis",
+    "totalStreams": 7617512,
+    "dailyStreams": 2139,
+    "album": "(What's the Story) Morning Glory? Deluxe",
+    "cover": "covers/oasis/morningDeluxe.jpg"
+  },
+  {
+    "title": "Step Out",
+    "artist": "Oasis",
+    "totalStreams": 13638749,
+    "dailyStreams": 8355,
+    "album": "(What's the Story) Morning Glory? Deluxe",
+    "cover": "covers/oasis/morningDeluxe.jpg"
+  },
+  {
+    "title": "The Fame",
+    "artist": "Oasis",
+    "totalStreams": 2843642,
+    "dailyStreams": 965,
+    "album": "Be Here Now Deluxe",
+    "cover": "covers/oasis/beHereNow.jpeg"
+  },
+  {
+    "title": "Flashbax",
+    "artist": "Oasis",
+    "totalStreams": 2852650,
+    "dailyStreams": 1018,
+    "album": "Be Here Now Deluxe",
+    "cover": "covers/oasis/beHereNow.jpeg"
+  },
+  {
+    "title": "(I Got) The Fever",
+    "artist": "Oasis",
+    "totalStreams": 2631688,
+    "dailyStreams": 993,
+    "album": "Be Here Now Deluxe",
+    "cover": "covers/oasis/beHereNow.jpeg"
+  },
+  {
+    "title": "My Sister Lover",
+    "artist": "Oasis",
+    "totalStreams": 2366598,
+    "dailyStreams": 789,
+    "album": "Be Here Now Deluxe",
+    "cover": "covers/oasis/beHereNow.jpeg"
+  },
+  {
+    "title": "Whatever",
+    "artist": "Oasis",
+    "totalStreams": 174755133,
+    "dailyStreams": 115334,
+    "album": "Whatever",
+    "cover": "covers/oasis/whatever.png"
+  }
+]

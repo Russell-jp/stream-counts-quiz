@@ -1,0 +1,634 @@
+[
+  {
+    "title": "Is This It",
+    "artist": "The Strokes",
+    "totalStreams": 147488627,
+    "dailyStreams": 49444,
+    "album": "Is This It",
+    "cover": "covers/strokes/isthisit.jpg"
+  },
+  {
+    "title": "The Modern Age",
+    "artist": "The Strokes",
+    "totalStreams": 86001779,
+    "dailyStreams": 29354,
+    "album": "Is This It",
+    "cover": "covers/strokes/isthisit.jpg"
+  },
+  {
+    "title": "Soma",
+    "artist": "The Strokes",
+    "totalStreams": 70231645,
+    "dailyStreams": 30247,
+    "album": "Is This It",
+    "cover": "covers/strokes/isthisit.jpg"
+  },
+  {
+    "title": "Barely Legal",
+    "artist": "The Strokes",
+    "totalStreams": 79771340,
+    "dailyStreams": 25496,
+    "album": "Is This It",
+    "cover": "covers/strokes/isthisit.jpg"
+  },
+  {
+    "title": "Someday",
+    "artist": "The Strokes",
+    "totalStreams": 640680327,
+    "dailyStreams": 309593,
+    "album": "Is This It",
+    "cover": "covers/strokes/isthisit.jpg"
+  },
+  {
+    "title": "Alone, Together",
+    "artist": "The Strokes",
+    "totalStreams": 47579655,
+    "dailyStreams": 17154,
+    "album": "Is This It",
+    "cover": "covers/strokes/isthisit.jpg"
+  },
+  {
+    "title": "Last Nite",
+    "artist": "The Strokes",
+    "totalStreams": 833095492,
+    "dailyStreams": 295519,
+    "album": "Is This It",
+    "cover": "covers/strokes/isthisit.jpg"
+  },
+  {
+    "title": "Hard To Explain",
+    "artist": "The Strokes",
+    "totalStreams": 188859736,
+    "dailyStreams": 90349,
+    "album": "Is This It",
+    "cover": "covers/strokes/isthisit.jpg"
+  },
+  {
+    "title": "When It Started",
+    "artist": "The Strokes",
+    "totalStreams": 22803135,
+    "dailyStreams": 11144,
+    "album": "Is This It",
+    "cover": "covers/strokes/isthisit.jpg"
+  },
+  {
+    "title": "New York City Cops",
+    "artist": "The Strokes",
+    "totalStreams": 37906413,
+    "dailyStreams": 12397,
+    "album": "Is This It",
+    "cover": "covers/strokes/isthisit.jpg"
+  },
+  {
+    "title": "Trying Your Luck",
+    "artist": "The Strokes",
+    "totalStreams": 51255037,
+    "dailyStreams": 19169,
+    "album": "Is This It",
+    "cover": "covers/strokes/isthisit.jpg"
+  },
+  {
+    "title": "Take It Or Leave It",
+    "artist": "The Strokes",
+    "totalStreams": 51860193,
+    "dailyStreams": 23067,
+    "album": "Is This It",
+    "cover": "covers/strokes/isthisit.jpg"
+  },
+  {
+    "title": "What Ever Happened?",
+    "artist": "The Strokes",
+    "totalStreams": 98695575,
+    "dailyStreams": 43406,
+    "album": "Room on Fire",
+    "cover": "covers/strokes/room.jpeg"
+  },
+  {
+    "title": "Reptilia",
+    "artist": "The Strokes",
+    "totalStreams": 767352729,
+    "dailyStreams": 337223,
+    "album": "Room on Fire",
+    "cover": "covers/strokes/room.jpeg"
+  },
+  {
+    "title": "Automatic Stop",
+    "artist": "The Strokes",
+    "totalStreams": 87573428,
+    "dailyStreams": 31464,
+    "album": "Room on Fire",
+    "cover": "covers/strokes/room.jpeg"
+  },
+  {
+    "title": "12:51",
+    "artist": "The Strokes",
+    "totalStreams": 156157774,
+    "dailyStreams": 52818,
+    "album": "Room on Fire",
+    "cover": "covers/strokes/room.jpeg"
+  },
+  {
+    "title": "You Talk Way Too Much",
+    "artist": "The Strokes",
+    "totalStreams": 32027797,
+    "dailyStreams": 13446,
+    "album": "Room on Fire",
+    "cover": "covers/strokes/room.jpeg"
+  },
+  {
+    "title": "Between Love & Hate",
+    "artist": "The Strokes",
+    "totalStreams": 32950639,
+    "dailyStreams": 12944,
+    "album": "Room on Fire",
+    "cover": "covers/strokes/room.jpeg"
+  },
+  {
+    "title": "Meet Me in the Bathroom",
+    "artist": "The Strokes",
+    "totalStreams": 31686587,
+    "dailyStreams": 14399,
+    "album": "Room on Fire",
+    "cover": "covers/strokes/room.jpeg"
+  },
+  {
+    "title": "Under Control",
+    "artist": "The Strokes",
+    "totalStreams": 56493505,
+    "dailyStreams": 22138,
+    "album": "Room on Fire",
+    "cover": "covers/strokes/room.jpeg"
+  },
+  {
+    "title": "The Way It Is",
+    "artist": "The Strokes",
+    "totalStreams": 19489862,
+    "dailyStreams": 7366,
+    "album": "Room on Fire",
+    "cover": "covers/strokes/room.jpeg"
+  },
+  {
+    "title": "The End Has No End",
+    "artist": "The Strokes",
+    "totalStreams": 45907788,
+    "dailyStreams": 14704,
+    "album": "Room on Fire",
+    "cover": "covers/strokes/room.jpeg"
+  },
+  {
+    "title": "I Can't Win",
+    "artist": "The Strokes",
+    "totalStreams": 39964382,
+    "dailyStreams": 17649,
+    "album": "Room on Fire",
+    "cover": "covers/strokes/room.jpeg"
+  },
+  {
+    "title": "You Only Live Once",
+    "artist": "The Strokes",
+    "totalStreams": 423891046,
+    "dailyStreams": 125983,
+    "album": "First Impressions of Earth",
+    "cover": "covers/strokes/impression.jpeg"
+  },
+  {
+    "title": "Juicebox",
+    "artist": "The Strokes",
+    "totalStreams": 82818484,
+    "dailyStreams": 26220,
+    "album": "First Impressions of Earth",
+    "cover": "covers/strokes/impression.jpeg"
+  },
+  {
+    "title": "Heart In a Cage",
+    "artist": "The Strokes",
+    "totalStreams": 109585718,
+    "dailyStreams": 32215,
+    "album": "First Impressions of Earth",
+    "cover": "covers/strokes/impression.jpeg"
+  },
+  {
+    "title": "Razorblade",
+    "artist": "The Strokes",
+    "totalStreams": 54646751,
+    "dailyStreams": 25540,
+    "album": "First Impressions of Earth",
+    "cover": "covers/strokes/impression.jpeg"
+  },
+  {
+    "title": "On the Other Side",
+    "artist": "The Strokes",
+    "totalStreams": 32556843,
+    "dailyStreams": 12000,
+    "album": "First Impressions of Earth",
+    "cover": "covers/strokes/impression.jpeg"
+  },
+  {
+    "title": "Vision of Division",
+    "artist": "The Strokes",
+    "totalStreams": 19994486,
+    "dailyStreams": 6629,
+    "album": "First Impressions of Earth",
+    "cover": "covers/strokes/impression.jpeg"
+  },
+  {
+    "title": "Ask Me Anything",
+    "artist": "The Strokes",
+    "totalStreams": 16662432,
+    "dailyStreams": 5082,
+    "album": "First Impressions of Earth",
+    "cover": "covers/strokes/impression.jpeg"
+  },
+  {
+    "title": "Electricityscape",
+    "artist": "The Strokes",
+    "totalStreams": 17294295,
+    "dailyStreams": 7294,
+    "album": "First Impressions of Earth",
+    "cover": "covers/strokes/impression.jpeg"
+  },
+  {
+    "title": "Killing Lies",
+    "artist": "The Strokes",
+    "totalStreams": 13962521,
+    "dailyStreams": 6158,
+    "album": "First Impressions of Earth",
+    "cover": "covers/strokes/impression.jpeg"
+  },
+  {
+    "title": "Fear of Sleep",
+    "artist": "The Strokes",
+    "totalStreams": 11761249,
+    "dailyStreams": 3990,
+    "album": "First Impressions of Earth",
+    "cover": "covers/strokes/impression.jpeg"
+  },
+  {
+    "title": "15 Minutes",
+    "artist": "The Strokes",
+    "totalStreams": 10653973,
+    "dailyStreams": 3480,
+    "album": "First Impressions of Earth",
+    "cover": "covers/strokes/impression.jpeg"
+  },
+  {
+    "title": "Ize of the World",
+    "artist": "The Strokes",
+    "totalStreams": 27620696,
+    "dailyStreams": 25326,
+    "album": "First Impressions of Earth",
+    "cover": "covers/strokes/impression.jpeg"
+  },
+  {
+    "title": "Evening Sun",
+    "artist": "The Strokes",
+    "totalStreams": 14673154,
+    "dailyStreams": 7756,
+    "album": "First Impressions of Earth",
+    "cover": "covers/strokes/impression.jpeg"
+  },
+  {
+    "title": "Red Light",
+    "artist": "The Strokes",
+    "totalStreams": 22969567,
+    "dailyStreams": 7487,
+    "album": "First Impressions of Earth",
+    "cover": "covers/strokes/impression.jpeg"
+  },
+  {
+    "title": "Machu Picchu",
+    "artist": "The Strokes",
+    "totalStreams": 155481300,
+    "dailyStreams": 34752,
+    "album": "Angles",
+    "cover": "covers/strokes/angles.jpeg"
+  },
+  {
+    "title": "Under Cover of Darkness",
+    "artist": "The Strokes",
+    "totalStreams": 261530133,
+    "dailyStreams": 79766,
+    "album": "Angles",
+    "cover": "covers/strokes/angles.jpeg"
+  },
+  {
+    "title": "Two Kinds of Happiness",
+    "artist": "The Strokes",
+    "totalStreams": 19631810,
+    "dailyStreams": 5284,
+    "album": "Angles",
+    "cover": "covers/strokes/angles.jpeg"
+  },
+  {
+    "title": "You're So Right",
+    "artist": "The Strokes",
+    "totalStreams": 14034872,
+    "dailyStreams": 3759,
+    "album": "Angles",
+    "cover": "covers/strokes/angles.jpeg"
+  },
+  {
+    "title": "Taken for a Fool",
+    "artist": "The Strokes",
+    "totalStreams": 64721140,
+    "dailyStreams": 22119,
+    "album": "Angles",
+    "cover": "covers/strokes/angles.jpeg"
+  },
+  {
+    "title": "Games",
+    "artist": "The Strokes",
+    "totalStreams": 17176171,
+    "dailyStreams": 5159,
+    "album": "Angles",
+    "cover": "covers/strokes/angles.jpeg"
+  },
+  {
+    "title": "Call Me Back",
+    "artist": "The Strokes",
+    "totalStreams": 33530642,
+    "dailyStreams": 10781,
+    "album": "Angles",
+    "cover": "covers/strokes/angles.jpeg"
+  },
+  {
+    "title": "Gratisfaction",
+    "artist": "The Strokes",
+    "totalStreams": 31789058,
+    "dailyStreams": 11855,
+    "album": "Angles",
+    "cover": "covers/strokes/angles.jpeg"
+  },
+  {
+    "title": "Metabolism",
+    "artist": "The Strokes",
+    "totalStreams": 12556894,
+    "dailyStreams": 3874,
+    "album": "Angles",
+    "cover": "covers/strokes/angles.jpeg"
+  },
+  {
+    "title": "Life Is Simple in the Moonlight",
+    "artist": "The Strokes",
+    "totalStreams": 51494238,
+    "dailyStreams": 26156,
+    "album": "Angles",
+    "cover": "covers/strokes/angles.jpeg"
+  },
+  {
+    "title": "Tap Out",
+    "artist": "The Strokes",
+    "totalStreams": 52508067,
+    "dailyStreams": 16414,
+    "album": "Comedown Machine",
+    "cover": "covers/strokes/machine.jpg"
+  },
+  {
+    "title": "All The Time",
+    "artist": "The Strokes",
+    "totalStreams": 26054141,
+    "dailyStreams": 6308,
+    "album": "Comedown Machine",
+    "cover": "covers/strokes/machine.jpg"
+  },
+  {
+    "title": "One Way Trigger",
+    "artist": "The Strokes",
+    "totalStreams": 75145842,
+    "dailyStreams": 34653,
+    "album": "Comedown Machine",
+    "cover": "covers/strokes/machine.jpg"
+  },
+  {
+    "title": "Welcome To Japan",
+    "artist": "The Strokes",
+    "totalStreams": 95588315,
+    "dailyStreams": 39852,
+    "album": "Comedown Machine",
+    "cover": "covers/strokes/machine.jpg"
+  },
+  {
+    "title": "80's Comedown Machine",
+    "artist": "The Strokes",
+    "totalStreams": 41518622,
+    "dailyStreams": 21623,
+    "album": "Comedown Machine",
+    "cover": "covers/strokes/machine.jpg"
+  },
+  {
+    "title": "50/50",
+    "artist": "The Strokes",
+    "totalStreams": 20095764,
+    "dailyStreams": 6813,
+    "album": "Comedown Machine",
+    "cover": "covers/strokes/machine.jpg"
+  },
+  {
+    "title": "Slow Animals",
+    "artist": "The Strokes",
+    "totalStreams": 20666946,
+    "dailyStreams": 8251,
+    "album": "Comedown Machine",
+    "cover": "covers/strokes/machine.jpg"
+  },
+  {
+    "title": "Partners In Crime",
+    "artist": "The Strokes",
+    "totalStreams": 17703424,
+    "dailyStreams": 7094,
+    "album": "Comedown Machine",
+    "cover": "covers/strokes/machine.jpg"
+  },
+  {
+    "title": "Chances",
+    "artist": "The Strokes",
+    "totalStreams": 49261669,
+    "dailyStreams": 27485,
+    "album": "Comedown Machine",
+    "cover": "covers/strokes/machine.jpg"
+  },
+  {
+    "title": "Happy Ending",
+    "artist": "The Strokes",
+    "totalStreams": 21159971,
+    "dailyStreams": 9361,
+    "album": "Comedown Machine",
+    "cover": "covers/strokes/machine.jpg"
+  },
+  {
+    "title": "Call It Fate, Call It Karma",
+    "artist": "The Strokes",
+    "totalStreams": 263171354,
+    "dailyStreams": 112546,
+    "album": "Comedown Machine",
+    "cover": "covers/strokes/machine.jpg"
+  },
+  {
+    "title": "The Adults Are Talking",
+    "artist": "The Strokes",
+    "totalStreams": 844198984,
+    "dailyStreams": 626907,
+    "album": "The New Abnormal",
+    "cover": "covers/strokes/abnormal.jpeg"
+  },
+  {
+    "title": "Selfless",
+    "artist": "The Strokes",
+    "totalStreams": 322502799,
+    "dailyStreams": 315330,
+    "album": "The New Abnormal",
+    "cover": "covers/strokes/abnormal.jpeg"
+  },
+  {
+    "title": "Brooklyn Bridge To Chorus",
+    "artist": "The Strokes",
+    "totalStreams": 110199947,
+    "dailyStreams": 53422,
+    "album": "The New Abnormal",
+    "cover": "covers/strokes/abnormal.jpeg"
+  },
+  {
+    "title": "Bad Decisions",
+    "artist": "The Strokes",
+    "totalStreams": 113273886,
+    "dailyStreams": 44111,
+    "album": "The New Abnormal",
+    "cover": "covers/strokes/abnormal.jpeg"
+  },
+  {
+    "title": "Eternal Summer",
+    "artist": "The Strokes",
+    "totalStreams": 75577532,
+    "dailyStreams": 39111,
+    "album": "The New Abnormal",
+    "cover": "covers/strokes/abnormal.jpeg"
+  },
+  {
+    "title": "At The Door",
+    "artist": "The Strokes",
+    "totalStreams": 77901313,
+    "dailyStreams": 36637,
+    "album": "The New Abnormal",
+    "cover": "covers/strokes/abnormal.jpeg"
+  },
+  {
+    "title": "Why Are Sundays So Depressing",
+    "artist": "The Strokes",
+    "totalStreams": 150674641,
+    "dailyStreams": 93772,
+    "album": "The New Abnormal",
+    "cover": "covers/strokes/abnormal.jpeg"
+  },
+  {
+    "title": "Not The Same Anymore",
+    "artist": "The Strokes",
+    "totalStreams": 58027779,
+    "dailyStreams": 33032,
+    "album": "The New Abnormal",
+    "cover": "covers/strokes/abnormal.jpeg"
+  },
+  {
+    "title": "Ode To The Mets",
+    "artist": "The Strokes",
+    "totalStreams": 202077641,
+    "dailyStreams": 251847,
+    "album": "The New Abnormal",
+    "cover": "covers/strokes/abnormal.jpeg"
+  },
+  {
+    "title": "Drag Queen",
+    "artist": "The Strokes",
+    "totalStreams": 16136193,
+    "dailyStreams": 9283,
+    "album": "Future Present Past",
+    "cover": "covers/strokes/future.jpg"
+  },
+  {
+    "title": "Oblivius",
+    "artist": "The Strokes",
+    "totalStreams": 74798671,
+    "dailyStreams": 85713,
+    "album": "Future Present Past",
+    "cover": "covers/strokes/future.jpg"
+  },
+  {
+    "title": "Threat of Joy",
+    "artist": "The Strokes",
+    "totalStreams": 88623060,
+    "dailyStreams": 42896,
+    "album": "Future Present Past",
+    "cover": "covers/strokes/future.jpg"
+  },
+  {
+    "title": "Psycho Shit",
+    "artist": "The Strokes",
+    "totalStreams": 5124017,
+    "dailyStreams": 56190,
+    "album": "Reality Awaits",
+    "cover": "covers/strokes/reality.jpeg"
+  },
+  {
+    "title": "Dine N'Dash",
+    "artist": "The Strokes",
+    "totalStreams": 8934832,
+    "dailyStreams": 143772,
+    "album": "Reality Awaits",
+    "cover": "covers/strokes/reality.jpeg"
+  },
+  {
+    "title": "Lonely in the Future",
+    "artist": "The Strokes",
+    "totalStreams": 9474747,
+    "dailyStreams": 144773,
+    "album": "Reality Awaits",
+    "cover": "covers/strokes/reality.jpeg"
+  },
+  {
+    "title": "Falling out of Love",
+    "artist": "The Strokes",
+    "totalStreams": 12257004,
+    "dailyStreams": 72206,
+    "album": "Reality Awaits",
+    "cover": "covers/strokes/reality.jpeg"
+  },
+  {
+    "title": "Going to Babble On",
+    "artist": "The Strokes",
+    "totalStreams": 6130209,
+    "dailyStreams": 90941,
+    "album": "Reality Awaits",
+    "cover": "covers/strokes/reality.jpeg"
+  },
+  {
+    "title": "Going Shopping",
+    "artist": "The Strokes",
+    "totalStreams": 19727673,
+    "dailyStreams": 92556,
+    "album": "Reality Awaits",
+    "cover": "covers/strokes/reality.jpeg"
+  },
+  {
+    "title": "Liar's Remorse",
+    "artist": "The Strokes",
+    "totalStreams": 4281353,
+    "dailyStreams": 56843,
+    "album": "Reality Awaits",
+    "cover": "covers/strokes/reality.jpeg"
+  },
+  {
+    "title": "The Fruits of Conquest",
+    "artist": "The Strokes",
+    "totalStreams": 4176456,
+    "dailyStreams": 55800,
+    "album": "Reality Awaits",
+    "cover": "covers/strokes/reality.jpeg"
+  },
+  {
+    "title": "Tyrants of the Mellow Moon",
+    "artist": "The Strokes",
+    "totalStreams": 3398596,
+    "dailyStreams": 41116,
+    "album": "Reality Awaits",
+    "cover": "covers/strokes/reality.jpeg"
+  }
+]

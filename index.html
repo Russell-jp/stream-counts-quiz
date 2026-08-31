@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Song Stream Quiz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header class="top-bar">
+        <div id="score">Score: 0</div>
+
+        <div class="game-title">
+            <h1>Which Song Has More Streams?</h1>
+            <p class="page-artist">Choose Artist</p>
+        </div>
+
+        <button id="home-button">
+            Home
+        </button>
+    </header>
+
+
+
+    <!-- SCREEN 1 -->
+    <section id="mode-screen" class="screen">
+
+        <div class="mode-content">
+
+            <p class="eyebrow">STREAM BATTLE</p>
+
+            <h1>Choose a stream type</h1>
+
+            <div class="stream-mode-grid">
+
+                <button class="stream-mode-card" data-mode="totalStreams">
+                    <h2>All-Time</h2>
+                    <p>Total Spotify streams</p>
+                </button>
+
+                <button class="stream-mode-card" data-mode="dailyStreams">
+                    <h2>Daily</h2>
+                    <p>Current daily streams</p>
+                </button>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- SCREEN 2 -->
+    <section id="artist-screen" class="screen hidden">
+
+        <div class="artist-content">
+
+            <p class="eyebrow">STREAM BATTLE</p>
+
+            <h1>Choose your artists</h1>
+
+            <div class="artist-mode-tabs">
+
+                <button class="artist-mode active" data-mode="single">
+                    Single Artist
+                </button>
+
+                <button class="artist-mode" data-mode="multiple">
+                    Multiple Artists
+                </button>
+
+            </div>
+            <div class="artist-controls">
+                <button id="select-all-artists" class="hidden">
+                    Select All
+                </button>
+
+                <div class="artist-start-panel hidden">
+                    <p id="selected-artists-count">0 artists selected</p>
+                    <button id="start-multiple-button" disabled>
+                        Start Quiz
+                    </button>
+                </div>
+            </div>
+
+            <div class="artist-grid"></div>
+
+        </div>
+
+    </section>
+
+
+    <!-- SCREEN 3 -->
+    <section id="game-screen" class="screen hidden">
+
+        <div class="song-container">
+
+            <div class="song-card">
+                <img class="album-cover" src="" alt="Album cover">
+                <h2 class="song-title"></h2>
+                <p class="album-title"></p>
+                <p class="stream-count"></p>
+            </div>
+
+            <div class="song-card">
+                <img class="album-cover" src="" alt="Album cover">
+                <h2 class="song-title"></h2>
+                <p class="album-title"></p>
+                <p class="stream-count"></p>
+            </div>
+
+        </div>
+
+        <div class="vs">VS</div>
+
+
+
+
+
+
+
+    </section>
+
+    <!--SCREEN 4: GAME OVER-->
+    <section id="game-over-screen" class="hidden">
+        <div class="game-over-heading">
+            <p class="eyebrow">RUN COMPLETE</p>
+            <h1>Game Over</h1>
+            <h2 id="final-score"></h2>
+        </div>
+
+        <div class="game-over-actions">
+            <button id="retry-button">Try Again</button>
+            <button id="mode-button">Change Mode</button>
+        </div>
+
+        <div class="history-section">
+            <div class="history-heading">
+                <h2>Round History</h2>
+                <p>Select a round to inspect the comparison.</p>
+            </div>
+            <div id="history-grid"></div>
+        </div>
+    </section>
+
+    <div id="history-modal" class="hidden" role="dialog" aria-modal="true" aria-labelledby="history-modal-title">
+        <div class="history-modal-backdrop"></div>
+        <div class="history-modal-content">
+            <button id="close-history-button" class="history-close-button"
+                aria-label="Close round details">&times;</button>
+            <p id="history-modal-round" class="eyebrow"></p>
+            <h2 id="history-modal-title">Round details</h2>
+            <p id="history-modal-result" class="history-modal-result"></p>
+            <div id="history-modal-cards" class="history-modal-cards"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+
+
+</body>
+
+</html>

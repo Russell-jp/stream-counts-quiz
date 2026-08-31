@@ -1,0 +1,586 @@
+[
+  {
+    "title": "Romance",
+    "artist": "My Chemical Romance",
+    "totalStreams": 16421237,
+    "dailyStreams": 12442,
+    "album": "I Brought You My Bullets, You Brought Me Your Love",
+    "cover": "covers/mcr/bullets.jpg"
+  },
+  {
+    "title": "Honey, This Mirror Isn't Big Enough for the Two of Us",
+    "artist": "My Chemical Romance",
+    "totalStreams": 62858060,
+    "dailyStreams": 39316,
+    "album": "I Brought You My Bullets, You Brought Me Your Love",
+    "cover": "covers/mcr/bullets.jpg"
+  },
+  {
+    "title": "Vampires Will Never Hurt You",
+    "artist": "My Chemical Romance",
+    "totalStreams": 62202536,
+    "dailyStreams": 40557,
+    "album": "I Brought You My Bullets, You Brought Me Your Love",
+    "cover": "covers/mcr/bullets.jpg"
+  },
+  {
+    "title": "Drowning Lessons",
+    "artist": "My Chemical Romance",
+    "totalStreams": 36481870,
+    "dailyStreams": 28992,
+    "album": "I Brought You My Bullets, You Brought Me Your Love",
+    "cover": "covers/mcr/bullets.jpg"
+  },
+  {
+    "title": "Our Lady of Sorrows",
+    "artist": "My Chemical Romance",
+    "totalStreams": 36584077,
+    "dailyStreams": 25724,
+    "album": "I Brought You My Bullets, You Brought Me Your Love",
+    "cover": "covers/mcr/bullets.jpg"
+  },
+  {
+    "title": "Headfirst for Halos",
+    "artist": "My Chemical Romance",
+    "totalStreams": 35680679,
+    "dailyStreams": 18934,
+    "album": "I Brought You My Bullets, You Brought Me Your Love",
+    "cover": "covers/mcr/bullets.jpg"
+  },
+  {
+    "title": "Skylines and Turnstiles",
+    "artist": "My Chemical Romance",
+    "totalStreams": 22059243,
+    "dailyStreams": 16298,
+    "album": "I Brought You My Bullets, You Brought Me Your Love",
+    "cover": "covers/mcr/bullets.jpg"
+  },
+  {
+    "title": "Early Sunsets Over Monroeville",
+    "artist": "My Chemical Romance",
+    "totalStreams": 35772571,
+    "dailyStreams": 32752,
+    "album": "I Brought You My Bullets, You Brought Me Your Love",
+    "cover": "covers/mcr/bullets.jpg"
+  },
+  {
+    "title": "This Is the Best Day Ever",
+    "artist": "My Chemical Romance",
+    "totalStreams": 16178502,
+    "dailyStreams": 11529,
+    "album": "I Brought You My Bullets, You Brought Me Your Love",
+    "cover": "covers/mcr/bullets.jpg"
+  },
+  {
+    "title": "Cubicles",
+    "artist": "My Chemical Romance",
+    "totalStreams": 18131887,
+    "dailyStreams": 13951,
+    "album": "I Brought You My Bullets, You Brought Me Your Love",
+    "cover": "covers/mcr/bullets.jpg"
+  },
+  {
+    "title": "Demolition Lovers",
+    "artist": "My Chemical Romance",
+    "totalStreams": 87023703,
+    "dailyStreams": 76584,
+    "album": "I Brought You My Bullets, You Brought Me Your Love",
+    "cover": "covers/mcr/bullets.jpg"
+  },
+  {
+    "title": "Helena",
+    "artist": "My Chemical Romance",
+    "totalStreams": 783518089,
+    "dailyStreams": 414836,
+    "album": "Three Cheers for Sweet Revenge",
+    "cover": "covers/mcr/cheers.jpeg"
+  },
+  {
+    "title": "Give 'Em Hell, Kid",
+    "artist": "My Chemical Romance",
+    "totalStreams": 95440516,
+    "dailyStreams": 39058,
+    "album": "Three Cheers for Sweet Revenge",
+    "cover": "covers/mcr/cheers.jpeg"
+  },
+  {
+    "title": "To the End",
+    "artist": "My Chemical Romance",
+    "totalStreams": 90196978,
+    "dailyStreams": 42517,
+    "album": "Three Cheers for Sweet Revenge",
+    "cover": "covers/mcr/cheers.jpeg"
+  },
+  {
+    "title": "You Know What They Do to Guys Like Us in Prison",
+    "artist": "My Chemical Romance",
+    "totalStreams": 165710872,
+    "dailyStreams": 70590,
+    "album": "Three Cheers for Sweet Revenge",
+    "cover": "covers/mcr/cheers.jpeg"
+  },
+  {
+    "title": "I'm Not Okay (I Promise)",
+    "artist": "My Chemical Romance",
+    "totalStreams": 719590890,
+    "dailyStreams": 289748,
+    "album": "Three Cheers for Sweet Revenge",
+    "cover": "covers/mcr/cheers.jpeg"
+  },
+  {
+    "title": "The Ghost of You",
+    "artist": "My Chemical Romance",
+    "totalStreams": 315595288,
+    "dailyStreams": 203740,
+    "album": "Three Cheers for Sweet Revenge",
+    "cover": "covers/mcr/cheers.jpeg"
+  },
+  {
+    "title": "The Jetset Life Is Gonna Kill You",
+    "artist": "My Chemical Romance",
+    "totalStreams": 65244266,
+    "dailyStreams": 35273,
+    "album": "Three Cheers for Sweet Revenge",
+    "cover": "covers/mcr/cheers.jpeg"
+  },
+  {
+    "title": "Interlude",
+    "artist": "My Chemical Romance",
+    "totalStreams": 30988074,
+    "dailyStreams": 12923,
+    "album": "Three Cheers for Sweet Revenge",
+    "cover": "covers/mcr/cheers.jpeg"
+  },
+  {
+    "title": "Thank You for the Venom",
+    "artist": "My Chemical Romance",
+    "totalStreams": 145743969,
+    "dailyStreams": 88295,
+    "album": "Three Cheers for Sweet Revenge",
+    "cover": "covers/mcr/cheers.jpeg"
+  },
+  {
+    "title": "Hang 'Em High",
+    "artist": "My Chemical Romance",
+    "totalStreams": 52370229,
+    "dailyStreams": 26346,
+    "album": "Three Cheers for Sweet Revenge",
+    "cover": "covers/mcr/cheers.jpeg"
+  },
+  {
+    "title": "It's Not a Fashion Statement, It's a Deathwish",
+    "artist": "My Chemical Romance",
+    "totalStreams": 74200825,
+    "dailyStreams": 36943,
+    "album": "Three Cheers for Sweet Revenge",
+    "cover": "covers/mcr/cheers.jpeg"
+  },
+  {
+    "title": "Cemetery Drive",
+    "artist": "My Chemical Romance",
+    "totalStreams": 120165259,
+    "dailyStreams": 72390,
+    "album": "Three Cheers for Sweet Revenge",
+    "cover": "covers/mcr/cheers.jpeg"
+  },
+  {
+    "title": "I Never Told You What I Do for a Living",
+    "artist": "My Chemical Romance",
+    "totalStreams": 65002084,
+    "dailyStreams": 33659,
+    "album": "Three Cheers for Sweet Revenge",
+    "cover": "covers/mcr/cheers.jpeg"
+  },
+  {
+    "title": "The End.",
+    "artist": "My Chemical Romance",
+    "totalStreams": 111241615,
+    "dailyStreams": 53061,
+    "album": "The Black Parade",
+    "cover": "covers/mcr/parade.jpg"
+  },
+  {
+    "title": "Dead!",
+    "artist": "My Chemical Romance",
+    "totalStreams": 251474666,
+    "dailyStreams": 110641,
+    "album": "The Black Parade",
+    "cover": "covers/mcr/parade.jpg"
+  },
+  {
+    "title": "This Is How I Disappear",
+    "artist": "My Chemical Romance",
+    "totalStreams": 136915862,
+    "dailyStreams": 59205,
+    "album": "The Black Parade",
+    "cover": "covers/mcr/parade.jpg"
+  },
+  {
+    "title": "The Sharpest Lives",
+    "artist": "My Chemical Romance",
+    "totalStreams": 180713828,
+    "dailyStreams": 93714,
+    "album": "The Black Parade",
+    "cover": "covers/mcr/parade.jpg"
+  },
+  {
+    "title": "Welcome to the Black Parade",
+    "artist": "My Chemical Romance",
+    "totalStreams": 1096745151,
+    "dailyStreams": 429657,
+    "album": "The Black Parade",
+    "cover": "covers/mcr/parade.jpg"
+  },
+  {
+    "title": "I Don't Love You",
+    "artist": "My Chemical Romance",
+    "totalStreams": 545860471,
+    "dailyStreams": 275487,
+    "album": "The Black Parade",
+    "cover": "covers/mcr/parade.jpg"
+  },
+  {
+    "title": "House of Wolves",
+    "artist": "My Chemical Romance",
+    "totalStreams": 130682947,
+    "dailyStreams": 61895,
+    "album": "The Black Parade",
+    "cover": "covers/mcr/parade.jpg"
+  },
+  {
+    "title": "Cancer",
+    "artist": "My Chemical Romance",
+    "totalStreams": 367731823,
+    "dailyStreams": 160275,
+    "album": "The Black Parade",
+    "cover": "covers/mcr/parade.jpg"
+  },
+  {
+    "title": "Mama",
+    "artist": "My Chemical Romance",
+    "totalStreams": 239445075,
+    "dailyStreams": 79170,
+    "album": "The Black Parade",
+    "cover": "covers/mcr/parade.jpg"
+  },
+  {
+    "title": "Sleep",
+    "artist": "My Chemical Romance",
+    "totalStreams": 77720159,
+    "dailyStreams": 39770,
+    "album": "The Black Parade",
+    "cover": "covers/mcr/parade.jpg"
+  },
+  {
+    "title": "Teenagers",
+    "artist": "My Chemical Romance",
+    "totalStreams": 1361840650,
+    "dailyStreams": 515264,
+    "album": "The Black Parade",
+    "cover": "covers/mcr/parade.jpg"
+  },
+  {
+    "title": "Disenchanted",
+    "artist": "My Chemical Romance",
+    "totalStreams": 348508872,
+    "dailyStreams": 156512,
+    "album": "The Black Parade",
+    "cover": "covers/mcr/parade.jpg"
+  },
+  {
+    "title": "Famous Last Words",
+    "artist": "My Chemical Romance",
+    "totalStreams": 481619698,
+    "dailyStreams": 247042,
+    "album": "The Black Parade",
+    "cover": "covers/mcr/parade.jpg"
+  },
+  {
+    "title": "Look Alive, Sunshine",
+    "artist": "My Chemical Romance",
+    "totalStreams": 430861,
+    "dailyStreams": 233,
+    "album": "Danger Days: The True Lives of the Fabulous Killjoys",
+    "cover": "covers/mcr/danger.jpg"
+  },
+  {
+    "title": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
+    "artist": "My Chemical Romance",
+    "totalStreams": 353078752,
+    "dailyStreams": 118737,
+    "album": "Danger Days: The True Lives of the Fabulous Killjoys",
+    "cover": "covers/mcr/danger.jpg"
+  },
+  {
+    "title": "Bulletproof Heart",
+    "artist": "My Chemical Romance",
+    "totalStreams": 84436347,
+    "dailyStreams": 36716,
+    "album": "Danger Days: The True Lives of the Fabulous Killjoys",
+    "cover": "covers/mcr/danger.jpg"
+  },
+  {
+    "title": "SING",
+    "artist": "My Chemical Romance",
+    "totalStreams": 102168550,
+    "dailyStreams": 32340,
+    "album": "Danger Days: The True Lives of the Fabulous Killjoys",
+    "cover": "covers/mcr/danger.jpg"
+  },
+  {
+    "title": "Planetary (GO!)",
+    "artist": "My Chemical Romance",
+    "totalStreams": 80320453,
+    "dailyStreams": 37739,
+    "album": "Danger Days: The True Lives of the Fabulous Killjoys",
+    "cover": "covers/mcr/danger.jpg"
+  },
+  {
+    "title": "The Only Hope for Me Is You",
+    "artist": "My Chemical Romance",
+    "totalStreams": 37845579,
+    "dailyStreams": 16625,
+    "album": "Danger Days: The True Lives of the Fabulous Killjoys",
+    "cover": "covers/mcr/danger.jpg"
+  },
+  {
+    "title": "Party Poison",
+    "artist": "My Chemical Romance",
+    "totalStreams": 32645745,
+    "dailyStreams": 16072,
+    "album": "Danger Days: The True Lives of the Fabulous Killjoys",
+    "cover": "covers/mcr/danger.jpg"
+  },
+  {
+    "title": "Save Yourself, I'll Hold Them Back",
+    "artist": "My Chemical Romance",
+    "totalStreams": 29642997,
+    "dailyStreams": 14806,
+    "album": "Danger Days: The True Lives of the Fabulous Killjoys",
+    "cover": "covers/mcr/danger.jpg"
+  },
+  {
+    "title": "S/C/A/R/E/C/R/O/W",
+    "artist": "My Chemical Romance",
+    "totalStreams": 31645331,
+    "dailyStreams": 17678,
+    "album": "Danger Days: The True Lives of the Fabulous Killjoys",
+    "cover": "covers/mcr/danger.jpg"
+  },
+  {
+    "title": "Summertime",
+    "artist": "My Chemical Romance",
+    "totalStreams": 70852627,
+    "dailyStreams": 37511,
+    "album": "Danger Days: The True Lives of the Fabulous Killjoys",
+    "cover": "covers/mcr/danger.jpg"
+  },
+  {
+    "title": "DESTROYA",
+    "artist": "My Chemical Romance",
+    "totalStreams": 46778553,
+    "dailyStreams": 25200,
+    "album": "Danger Days: The True Lives of the Fabulous Killjoys",
+    "cover": "covers/mcr/danger.jpg"
+  },
+  {
+    "title": "The Kids from Yesterday",
+    "artist": "My Chemical Romance",
+    "totalStreams": 41736697,
+    "dailyStreams": 15370,
+    "album": "Danger Days: The True Lives of the Fabulous Killjoys",
+    "cover": "covers/mcr/danger.jpg"
+  },
+  {
+    "title": "Goodnite, Dr. Death",
+    "artist": "My Chemical Romance",
+    "totalStreams": 9229092,
+    "dailyStreams": 2929,
+    "album": "Danger Days: The True Lives of the Fabulous Killjoys",
+    "cover": "covers/mcr/danger.jpg"
+  },
+  {
+    "title": "Vampire Money",
+    "artist": "My Chemical Romance",
+    "totalStreams": 48293646,
+    "dailyStreams": 18331,
+    "album": "Danger Days: The True Lives of the Fabulous Killjoys",
+    "cover": "covers/mcr/danger.jpg"
+  },
+  {
+    "title": "Boy Division",
+    "artist": "My Chemical Romance",
+    "totalStreams": 55301463,
+    "dailyStreams": 28857,
+    "album": "Conventional Weapons",
+    "cover": "covers/mcr/conventionalWeapons.jpg"
+  },
+  {
+    "title": "Tomorrow's Money",
+    "artist": "My Chemical Romance",
+    "totalStreams": 12963423,
+    "dailyStreams": 5328,
+    "album": "Conventional Weapons",
+    "cover": "covers/mcr/conventionalWeapons.jpg"
+  },
+  {
+    "title": "AMBULANCE",
+    "artist": "My Chemical Romance",
+    "totalStreams": 19386189,
+    "dailyStreams": 15640,
+    "album": "Conventional Weapons",
+    "cover": "covers/mcr/conventionalWeapons.jpg"
+  },
+  {
+    "title": "Gun.",
+    "artist": "My Chemical Romance",
+    "totalStreams": 9479979,
+    "dailyStreams": 5076,
+    "album": "Conventional Weapons",
+    "cover": "covers/mcr/conventionalWeapons.jpg"
+  },
+  {
+    "title": "The World Is Ugly",
+    "artist": "My Chemical Romance",
+    "totalStreams": 91264216,
+    "dailyStreams": 53777,
+    "album": "Conventional Weapons",
+    "cover": "covers/mcr/conventionalWeapons.jpg"
+  },
+  {
+    "title": "The Light Behind Your Eyes",
+    "artist": "My Chemical Romance",
+    "totalStreams": 70133244,
+    "dailyStreams": 22960,
+    "album": "Conventional Weapons",
+    "cover": "covers/mcr/conventionalWeapons.jpg"
+  },
+  {
+    "title": "Kiss the Ring",
+    "artist": "My Chemical Romance",
+    "totalStreams": 14099805,
+    "dailyStreams": 9562,
+    "album": "Conventional Weapons",
+    "cover": "covers/mcr/conventionalWeapons.jpg"
+  },
+  {
+    "title": "Make Room!!!!",
+    "artist": "My Chemical Romance",
+    "totalStreams": 12276674,
+    "dailyStreams": 4641,
+    "album": "Conventional Weapons",
+    "cover": "covers/mcr/conventionalWeapons.jpg"
+  },
+  {
+    "title": "Surrender the Night",
+    "artist": "My Chemical Romance",
+    "totalStreams": 17660330,
+    "dailyStreams": 12017,
+    "album": "Conventional Weapons",
+    "cover": "covers/mcr/conventionalWeapons.jpg"
+  },
+  {
+    "title": "Burn Bright",
+    "artist": "My Chemical Romance",
+    "totalStreams": 16977392,
+    "dailyStreams": 11959,
+    "album": "Conventional Weapons",
+    "cover": "covers/mcr/conventionalWeapons.jpg"
+  },
+  {
+    "title": "Desert Song",
+    "artist": "My Chemical Romance",
+    "totalStreams": 18880094,
+    "dailyStreams": 13598,
+    "album": "Life on the Murder Scene",
+    "cover": "covers/mcr/murder.jpg"
+  },
+  {
+    "title": "My Way Home Is Through You",
+    "artist": "My Chemical Romance",
+    "totalStreams": 21709517,
+    "dailyStreams": 15568,
+    "album": "The Black Parade: The B-Sides",
+    "cover": "covers/mcr/ParadeBSide.jpeg"
+  },
+  {
+    "title": "Heaven Help Us",
+    "artist": "My Chemical Romance",
+    "totalStreams": 23905521,
+    "dailyStreams": 16014,
+    "album": "The Black Parade: The B-Sides",
+    "cover": "covers/mcr/ParadeBSide.jpeg"
+  },
+  {
+    "title": "Kill All Your Friends",
+    "artist": "My Chemical Romance",
+    "totalStreams": 42707571,
+    "dailyStreams": 25246,
+    "album": "The Black Parade: The B-Sides",
+    "cover": "covers/mcr/ParadeBSide.jpeg"
+  },
+  {
+    "title": "F.T.W.W.W. - 2026 Remaster",
+    "artist": "My Chemical Romance",
+    "totalStreams": 5137499,
+    "dailyStreams": 4982,
+    "album": "The Mad Gear and Missile Kid EP",
+    "cover": "covers/mcr/mad.jpg"
+  },
+  {
+    "title": "Mastas of Ravenkroft - 2026 Remaster",
+    "artist": "My Chemical Romance",
+    "totalStreams": 3065159,
+    "dailyStreams": 3967,
+    "album": "The Mad Gear and Missile Kid EP",
+    "cover": "covers/mcr/mad.jpg"
+  },
+  {
+    "title": "Black Dragon Fighting Society - 2026 Remaster",
+    "artist": "My Chemical Romance",
+    "totalStreams": 2585459,
+    "dailyStreams": 3439,
+    "album": "The Mad Gear and Missile Kid EP",
+    "cover": "covers/mcr/mad.jpg"
+  },
+  {
+    "title": "Fake Your Death",
+    "artist": "My Chemical Romance",
+    "totalStreams": 38607113,
+    "dailyStreams": 5571,
+    "album": "Fake Your Death",
+    "cover": "covers/mcr/fyd.jpeg"
+  },
+  {
+    "title": "We Don't Need Another Song About California - 2026 Remaster",
+    "artist": "My Chemical Romance",
+    "totalStreams": 250411,
+    "dailyStreams": 2828,
+    "album": "Danger Days: The True Lives of the Fabulous Killjoys (Deluxe Edition)",
+    "cover": "covers/mcr/dangerDeluxe.jpg"
+  },
+  {
+    "title": "Zero Percent - 2026 Remaster",
+    "artist": "My Chemical Romance",
+    "totalStreams": 2505994,
+    "dailyStreams": 12416,
+    "album": "Danger Days: The True Lives of the Fabulous Killjoys (Deluxe Edition)",
+    "cover": "covers/mcr/dangerDeluxe.jpg"
+  },
+  {
+    "title": "Common People - Recorded For BBC Radio 1",
+    "artist": "My Chemical Romance",
+    "totalStreams": 2351741,
+    "dailyStreams": 4743,
+    "album": "Danger Days: The True Lives of the Fabulous Killjoys (Deluxe Edition)",
+    "cover": "covers/mcr/dangerDeluxe.jpg"
+  },
+  {
+    "title": "The Foundations of Decay",
+    "artist": "My Chemical Romance",
+    "totalStreams": 62584095,
+    "dailyStreams": 18869,
+    "album": "The Foundations of Decay",
+    "cover": "covers/mcr/decay.jpeg"
+  }
+]
