@@ -1,0 +1,385 @@
+{
+    "artist": "Coldplay",
+    "albums": [
+        {
+            "album": "Parachutes",
+            "cover": "covers/coldplay/parachutes.jpg",
+            "songs": [
+                "DON’T PANIC",
+                "SHIVER",
+                "SPIES",
+                "SPARKS",
+                "YELLOW",
+                "TROUBLE",
+                "PARACHUTES",
+                "HIGH SPEED",
+                "WE NEVER CHANGE",
+                "Everything's Not Lost - Includes Hidden Track 'Life Is For Living'"
+            ]
+        },
+        {
+            "album": "A Rush of Blood to the Head",
+            "cover": "covers/coldplay/rush.jpg",
+            "songs": [
+                "POLITIK",
+                "IN MY PLACE",
+                "GOD PUT A SMILE UPON YOUR FACE",
+                "THE SCIENTIST",
+                "CLOCKS",
+                "DAYLIGHT",
+                "GREEN EYES",
+                "WARNING SIGN",
+                "A WHISPER",
+                "A RUSH OF BLOOD TO THE HEAD",
+                "AMSTERDAM"
+            ]
+        },
+        {
+            "album": "X&Y",
+            "cover": "covers/coldplay/xy.jpg",
+            "songs": [
+                "SQUARE ONE",
+                "WHAT IF",
+                "WHITE SHADOWS",
+                "FIX YOU",
+                "TALK",
+                "X&Y",
+                "SPEED OF SOUND",
+                "A MESSAGE",
+                "LOW",
+                "THE HARDEST PART",
+                "SWALLOWED IN THE SEA",
+                "TWISTED LOGIC",
+                "TIL KINGDOM COME"
+            ]
+        },
+        {
+            "album": "Viva la Vida or Death and All His Friends",
+            "cover": "covers/coldplay/viva.jpg",
+            "songs": [
+                "LIFE IN TECHNICOLOR",
+                "CEMETERIES OF LONDON",
+                "LOST!",
+                "42",
+                "Lovers in Japan / Reign of Love",
+                "YES",
+                "VIVA LA VIDA",
+                "VIOLET HILL",
+                "STRAWBERRY SWING",
+                "DEATH AND ALL HIS FRIENDS"
+            ]
+        },
+        {
+            "album": "Mylo Xyloto",
+            "cover": "covers/coldplay/mylo.jpg",
+            "songs": [
+                "MYLO XYLOTO",
+                "HURTS LIKE HEAVEN",
+                "PARADISE",
+                "CHARLIE BROWN",
+                "US AGAINST THE WORLD",
+                "EVERY TEARDROP IS A WATERFALL",
+                "MAJOR MINUS",
+                "U.F.O.",
+                "PRINCESS OF CHINA",
+                "UP IN FLAMES",
+                "A HOPEFUL TRANSMISSION",
+                "DON’T LET IT BREAK YOUR HEART",
+                "UP WITH THE BIRDS"
+            ]
+        },
+        {
+            "album": "Ghost Stories",
+            "cover": "covers/coldplay/ghost.jpeg",
+            "songs": [
+                "ALWAYS IN MY HEAD",
+                "MAGIC",
+                "INK",
+                "TRUE LOVE",
+                "MIDNIGHT",
+                "ANOTHER’S ARMS",
+                "OCEANS",
+                "A SKY FULL OF STARS",
+                "O"
+            ]
+        },
+        {
+            "album": "A Head Full of Dreams",
+            "cover": "covers/coldplay/dreams.jpg",
+            "songs": [
+                "A Head Full Of Dreams",
+                "Birds",
+                "Hymn For The Weekend",
+                "Everglow",
+                "Adventure Of A Lifetime",
+                "Fun (feat. Tove Lo)",
+                "Kaleidoscope",
+                "Army Of One",
+                "Amazing Day",
+                "Colour Spectrum",
+                "Up&Up"
+            ]
+        },
+        {
+            "album": "Everyday Life",
+            "cover": "covers/coldplay/everyday.jpeg",
+            "songs": [
+                "SUNRISE",
+                "CHURCH",
+                "TROUBLE IN TOWN",
+                "BROKEN",
+                "DADDY",
+                "WOTW / POTP",
+                "ARABESQUE",
+                "WHEN I NEED A FRIEND",
+                "GUNS",
+                "ORPHANS",
+                "ÈKÓ",
+                "CRY CRY CRY",
+                "OLD FRIENDS",
+                "بنی آدم",
+                "CHAMPION OF THE WORLD",
+                "EVERYDAY LIFE",
+                "Flags"
+            ]
+        },
+        {
+            "album": "Music of the Spheres",
+            "cover": "covers/coldplay/spheres.jpeg",
+            "songs": [
+                "🪐",
+                "Higher Power",
+                "Humankind",
+                "✨",
+                "Let Somebody Go",
+                "❤️",
+                "People Of The Pride",
+                "Biutyful",
+                "🌎",
+                "My Universe",
+                "♾",
+                "Coloratura"
+            ]
+        },
+        {
+            "album": "Moon Music",
+            "cover": "covers/coldplay/moon.jpeg",
+            "songs": [
+                "MOON MUSIC",
+                "feelslikeimfallinginlove",
+                "WE PRAY",
+                "JUPiTER",
+                "GOOD FEELiNGS",
+                "🌈",
+                "iAAM",
+                "AETERNA",
+                "ALL MY LOVE",
+                "ONE WORLD"
+            ]
+        },
+        {
+            "album": "Moon Music (Full Moon Edition)",
+            "cover": "covers/coldplay/moonD.jpeg",
+            "songs": [
+                "The Karate Kid",
+                "Angelsong",
+                "Man in The Moon",
+                "i Am A Mountain",
+                "👋"
+            ]
+        },
+        {
+            "album": "Brothers & Susters",
+            "cover": "covers/coldplay/brothers.jpeg",
+            "songs": [
+                "Brothers & Sisters",
+                "Easy To Please",
+                "Only Superstition"
+            ]
+        },
+        {
+            "album": "The Blue Room",
+            "cover": "covers/coldplay/blue-room.jpg",
+            "songs": [
+                "Bigger Stronger",
+                "See You Soon",
+                "Such a Rush"
+            ]
+        },
+        {
+            "album": "Shiver",
+            "cover": "covers/coldplay/shiver.jpg",
+            "songs": [
+                "For You",
+                "Careful Where You Stand"
+            ]
+        },
+        {
+            "album": "Yellow",
+            "cover": "covers/coldplay/yellow.jpg",
+            "songs": [
+                "Help Is Round the Corner",
+                "No More Keeping My Feet on the Ground"
+            ]
+        },
+        {
+            "album": "The Scientist",
+            "cover": "covers/coldplay/scientist.jpeg",
+            "songs": [
+                "1.36",
+                "I Ran Away"
+            ]
+        },
+        {
+            "album": "In My Place",
+            "cover": "covers/coldplay/place.jpeg",
+            "songs": [
+                "One I Love",
+                "I Bloom Blaum"
+            ]
+        },
+        {
+            "album": "Murder",
+            "cover": "covers/coldplay/murder.jpeg",
+            "songs": [
+                "Murder"
+            ]
+        },
+        {
+            "album": "Clocks",
+            "cover": "covers/coldplay/clocks.jpeg",
+            "songs": [
+                "Crests of Waves",
+                "Animals"
+            ]
+        },
+        {
+            "album": "2000 Miles",
+            "cover": "covers/coldplay/miles.jpeg",
+            "songs": [
+                "2000 Miles"
+            ]
+        },
+        {
+            "album": "Speed of Sound",
+            "cover": "covers/coldplay/speed.png",
+            "songs": [
+                "Things I Don't Understand",
+                "Proof"
+            ]
+        },
+        {
+            "album": "Fix You",
+            "cover": "covers/coldplay/fix-you.png",
+            "songs": [
+                "The World Turned Upside Down"
+            ]
+        },
+        {
+            "album": "Talk",
+            "cover": "covers/coldplay/talk.jpg",
+            "songs": [
+                "Sleeping Sun",
+                "Gravity"
+            ]
+        },
+        {
+            "album": "Violet Hill",
+            "cover": "covers/coldplay/violet.jpg",
+            "songs": [
+                "A Spell a Rebel Yell"
+            ]
+        },
+        {
+            "album": "Prospect's March",
+            "cover": "covers/coldplay/prospect.jpg",
+            "songs": [
+                "Life in Technicolor ii",
+                "Postcards from Far Away",
+                "Glass of Water",
+                "Rainy Day",
+                "Prospekt's March / Poppyfields",
+                "Lost+ (with Jay-Z)",
+                "Lovers in Japan - Osaka Sun Mix",
+                "Now My Feet Won't Touch the Ground"
+            ]
+        },
+        {
+            "album": "Viva La Vida",
+            "cover": "covers/coldplay/vida.jpeg",
+            "songs": [
+                "Death Will Never Conquer"
+            ]
+        },
+        {
+            "album": "Lost!",
+            "cover": "covers/coldplay/lost.jpg",
+            "songs": [
+                "Lost?"
+            ]
+        },
+        {
+            "album": "Life in Technicolor ii",
+            "cover": "covers/coldplay/technicolor.jpeg",
+            "songs": [
+                "The Goldrush"
+            ]
+        },
+        {
+            "album": "Christmas Lights",
+            "cover": "covers/coldplay/christmas.jpg",
+            "songs": [
+                "Christmas Lights"
+            ]
+        },
+        {
+            "album": "Every Teardrop Is a Waterfall",
+            "cover": "covers/coldplay/teardrop.jpeg",
+            "songs": [
+                "Major Minus",
+                "Moving to Mars"
+            ]
+        },
+        {
+            "album": "Atlas - From “The Hunger Games: Catching Fire” Soundtrack",
+            "cover": "covers/coldplay/atlas.jpeg",
+            "songs": [
+                "Atlas - From “The Hunger Games: Catching Fire” Soundtrack"
+            ]
+        },
+        {
+            "album": "A Sky Full of Stars",
+            "cover": "covers/coldplay/sky-full.jpeg",
+            "songs": [
+                "All Your Friends",
+                "Ghost Story",
+                "O - Reprise"
+            ]
+        },
+        {
+            "album": "Wish I Was Here",
+            "cover": "covers/coldplay/wish.jpeg",
+            "songs": [
+                "* Wish I Was Here"
+            ]
+        },
+        {
+            "album": "Everglow",
+            "cover": "covers/coldplay/everglow.jpg",
+            "songs": [
+                "Everglow - Edit"
+            ]
+        },
+        {
+            "album": "Kaleidoscope EP",
+            "cover": "covers/coldplay/kaleido.jpeg",
+            "songs": [
+                "All I Can Think About Is You",
+                "Miracles (Someone Special)",
+                "A L I E N S",
+                "Something Just Like This - Tokyo Remix",
+                "Hypnotised - EP Mix"
+            ]
+        }
+    ]
+}

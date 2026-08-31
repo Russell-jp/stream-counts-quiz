@@ -1,0 +1,119 @@
+{
+    "artist": "Wallows",
+    "albums": [
+        {
+            "album": "Nothing Happens",
+            "cover": "covers/wallows/nothing.jpeg",
+            "songs": [
+                "Only Friend",
+                "Treacherous Doctor",
+                "Sidelines",
+                "Are You Bored Yet? (feat. Clairo)",
+                "Scrawny",
+                "Ice Cold Pool",
+                "Worlds Apart",
+                "What You Like",
+                "Remember When",
+                "I'm Full",
+                "Do Not Wait"
+            ]
+        },
+        {
+            "album": "Nothing Happens(5th Anniversary Edition)",
+            "cover": "covers/wallows/nothing.jpeg",
+            "songs": [
+                "Worlds Apart - Extended ending",
+                "Bad Remake"
+            ]
+        },
+        {
+            "album": "Tell Me That It's Over",
+            "cover": "covers/wallows/over.jpeg",
+            "songs": [
+                "Hard to Believe",
+                "I Don't Want to Talk",
+                "Especially You",
+                "At the End of the Day",
+                "Marvelous",
+                "Permanent Price",
+                "Missing Out",
+                "Hurts Me",
+                "That's What I Get",
+                "Guitar Romantic Search Adventure"
+            ]
+        },
+        {
+            "album": "Model",
+            "cover": "covers/wallows/model.jpeg",
+            "songs": [
+                "Your Apartment",
+                "Anytime, Always",
+                "Calling After Me",
+                "Bad Dream",
+                "A Warning",
+                "I Wouldn't Mind",
+                "You (Show Me Where My Days Went)",
+                "Canada",
+                "Don't You Think It's Strange?",
+                "She's an Actress",
+                "Going Under",
+                "Only Ecstasy"
+            ]
+        },
+        {
+            "album": "Singles Collection 2017-2020",
+            "cover": "covers/wallows/singles.jpeg",
+            "songs": [
+                "Pleaser",
+                "Sun Tan",
+                "Uncomfortable",
+                "Pulling Leaves Off Trees",
+                "Underneath the Streetlights in the Winter Outside your House",
+                "Drunk on Halloween",
+                "1980s Horror Film II",
+                "Trust Fall",
+                "Just Like a Movie",
+                "OK"
+            ]
+        },
+        {
+            "album": "Spring EP",
+            "cover": "covers/wallows/spring.jpg",
+            "songs": [
+                "Ground",
+                "It's Only Right",
+                "Let the Sun In",
+                "These Days",
+                "1980s Horror Film",
+                "Pictures of Girls"
+            ]
+        },
+        {
+            "album": "Quarterback",
+            "cover": "covers/wallows/quarterback.jpg",
+            "songs": [
+                "Quarterback"
+            ]
+        },
+        {
+            "album": "WISH ME LUCK",
+            "cover": "covers/wallows/wish.jpeg",
+            "songs": [
+                "WISH ME LUCK"
+            ]
+        },
+        {
+            "album": "More",
+            "cover": "covers/wallows/more.jpg",
+            "songs": [
+                "Not Alone",
+                "Deep Dive",
+                "Coffin Change",
+                "Hide It Away",
+                "Your New Favorite Song",
+                "Learn to Love Again",
+                "Deep Dive - Reprise"
+            ]
+        }
+    ]
+}

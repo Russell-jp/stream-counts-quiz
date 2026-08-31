@@ -1,0 +1,61 @@
+{
+    "artist": "The Backseat Lovers",
+    "albums": [
+        {
+            "album": "Elevator Days",
+            "cover": "covers/backseat/elevator.jpeg",
+            "songs": [
+                "Out of Tune",
+                "Pictures",
+                "Still a Friend",
+                "Elevator Days",
+                "Address Your Letters"
+            ]
+        },
+        {
+            "album": "When We Were Friends",
+            "cover": "covers/backseat/wwwf.jpeg",
+            "songs": [
+                "Watch Your Mouth",
+                "Pool House",
+                "Intuition",
+                "Kilby Girl",
+                "Dugout",
+                "Davy Crochet",
+                "Maple Syrup",
+                "Olivia",
+                "Sinking Ship"
+            ]
+        },
+        {
+            "album": "Waiting to Spill",
+            "cover": "covers/backseat/waiting.jpg",
+            "songs": [
+                "Silhouette",
+                "Close Your Eyes",
+                "Morning in the Aves",
+                "Growing/Dying",
+                "Words I Used",
+                "Snowbank Blues",
+                "Follow the Sound",
+                "Slowing Down",
+                "Know Your Name",
+                "Viciously Lonely"
+            ]
+        },
+        {
+            "album": "Just a Boy",
+            "cover": "covers/backseat/boy.jpg",
+            "songs": [
+                "Just a Boy"
+            ]
+        },
+        {
+            "album": "Heavy",
+            "cover": "covers/backseat/heavy.jpeg",
+            "songs": [
+                "Heavy"
+            ]
+        }
+    ]
+}

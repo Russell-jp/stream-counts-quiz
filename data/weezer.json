@@ -1,0 +1,363 @@
+{
+    "artist": "Weezer",
+    "albums": [
+        {
+            "album": "Blue Album",
+            "cover": "covers/weezer/blue.jpg",
+            "songs": [
+                "My Name Is Jonas",
+                "No One Else",
+                "The World Has Turned and Left Me Here",
+                "Buddy Holly",
+                "Undone  Ethe Sweater Song",
+                "Surf Wax America",
+                "Say It Ain't So - Original Mix",
+                "In the Garage",
+                "Holiday",
+                "Only in Dreams"
+            ]
+        },
+        {
+            "album": "Pinkerton",
+            "cover": "covers/weezer/pinkerton.jpg",
+            "songs": [
+                "Tired of Sex",
+                "Getchoo",
+                "No Other One",
+                "Why Bother?",
+                "Across the Sea",
+                "The Good Life",
+                "El Scorcho",
+                "Pink Triangle",
+                "Falling for You",
+                "Butterfly"
+            ]
+        },
+        {
+            "album": "Green Album",
+            "cover": "covers/weezer/green.jpg",
+            "songs": [
+                "Don’t Let Go",
+                "Photograph",
+                "Hash Pipe",
+                "Island in the Sun",
+                "Crab",
+                "Knockdown Dragout",
+                "Smile",
+                "Simple Pages",
+                "Glorious Day",
+                "O Girlfriend"
+            ]
+        },
+        {
+            "album": "Maladroit",
+            "cover": "covers/weezer/maladroit.jpg",
+            "songs": [
+                "American Gigolo",
+                "Dope Nose",
+                "Keep Fishin'",
+                "Take Control",
+                "Death And Destruction",
+                "Slob",
+                "Burndt Jamb",
+                "Space Rock",
+                "Slave",
+                "Fall Together",
+                "Possibilities",
+                "Love Explosion",
+                "December"
+            ]
+        },
+        {
+            "album": "Make Believe",
+            "cover": "covers/weezer/mb.jpg",
+            "songs": [
+                "Beverly Hills",
+                "Perfect Situation",
+                "This Is Such A Pity",
+                "Hold Me",
+                "Peace",
+                "We Are All On Drugs",
+                "The Damage In Your Heart",
+                "Pardon Me",
+                "My Best Friend",
+                "The Other Way",
+                "Freak Me Out",
+                "Haunt You Every Day"
+            ]
+        },
+        {
+            "album": "Red Album",
+            "cover": "covers/weezer/red.jpg",
+            "songs": [
+                "Troublemaker",
+                "The Greatest Man That Ever Lived (Variations On A Shaker Hymn)",
+                "Pork And Beans",
+                "Heart Songs",
+                "Everybody Get Dangerous",
+                "Dreamin'",
+                "Thought I Knew",
+                "Cold Dark World",
+                "Automatic",
+                "The Angel And The One"
+            ]
+        },
+        {
+            "album": "Raditude",
+            "cover": "covers/weezer/rad.jpg",
+            "songs": [
+                "(If You’re Wondering If I Want You To) I Want You To",
+                "I’m Your Daddy",
+                "The Girl Got Hot",
+                "Can't Stop Partying - Polow Version",
+                "Put Me Back Together - Serban Ghenea Mix",
+                "Tripping Down The Freeway",
+                "Love Is The Answer - Hindi Version",
+                "Let It All Hang Out",
+                "In The Mall",
+                "I Don’t Want To Let You Go"
+            ]
+        },
+        {
+            "album": "Death to False Metal",
+            "cover": "covers/weezer/dtfm.png",
+            "songs": [
+                "Turning Up The Radio",
+                "I Don't Want Your Loving",
+                "Blowin' My Stack",
+                "Losing My Mind",
+                "Everyone",
+                "I'm A Robot",
+                "Trampoline",
+                "Odd Couple",
+                "Autopilot",
+                "Unbreak My Heart",
+                "Outta Here"
+            ]
+        },
+        {
+            "album": "Hurley",
+            "cover": "covers/weezer/hurley.jpg",
+            "songs": [
+                "Memories",
+                "Ruling Me",
+                "Trainwrecks",
+                "Unspoken",
+                "Where’s My Sex?",
+                "Run Away",
+                "Hang On",
+                "Smart Girls",
+                "Brave New World",
+                "Time Flies"
+            ]
+        },
+        {
+            "album": "Everything will be alright in the end",
+            "cover": "covers/weezer/ewbaite.jpg",
+            "songs": [
+                "Ain’t Got Nobody",
+                "Back to the Shack",
+                "Eulogy for a Rock Band",
+                "Lonely Girl",
+                "I’ve Had It Up to Here",
+                "The British Are Coming",
+                "Da Vinci",
+                "Go Away",
+                "Cleopatra",
+                "Foolish Father",
+                "I. The Waste Land",
+                "II. Anonymous",
+                "III. Return To Ithaka"
+            ]
+        },
+        {
+            "album": "White Album",
+            "cover": "covers/weezer/white.jpg",
+            "songs": [
+                "California Kids",
+                "Wind In Our Sail",
+                "Thank God For Girls",
+                "(Girl We Got A) Good Thing",
+                "Do You Wanna Get High?",
+                "King Of The World",
+                "Summer Elaine And Drunk Dori",
+                "L.A. Girlz",
+                "Jacked Up",
+                "Endless Bummer"
+            ]
+        },
+        {
+            "album": "Pacific Daydream",
+            "cover": "covers/weezer/pacific.png",
+            "songs": [
+                "Mexican Fender",
+                "Beach Boys",
+                "Feels Like Summer",
+                "Happy Hour",
+                "Weekend Woman",
+                "QB Blitz",
+                "Sweet Mary",
+                "Get Right",
+                "La Mancha Screwjob",
+                "Any Friend Of Diane’s"
+            ]
+        },
+        {
+            "album": "Teal Album",
+            "cover": "covers/weezer/teal.jpg",
+            "songs": [
+                "Africa",
+                "Everybody Wants To Rule The World",
+                "Sweet Dreams (Are Made Of This)",
+                "Take On Me",
+                "Happy Together",
+                "Paranoid",
+                "Mr. Blue Sky",
+                "No Scrubs",
+                "Billie Jean",
+                "Stand By Me"
+            ]
+        },
+        {
+            "album": "Black Album",
+            "cover": "covers/weezer/black.png",
+            "songs": [
+                "Can’t Knock The Hustle",
+                "Zombie Bastards",
+                "High As A Kite",
+                "Living In L.A.",
+                "Piece Of Cake",
+                "I’m Just Being Honest",
+                "Too Many Thoughts In My Head",
+                "The Prince Who Wanted Everything",
+                "Byzantine",
+                "California Snow"
+            ]
+        },
+        {
+            "album": "OK Human",
+            "cover": "covers/weezer/ok-human.jpg",
+            "songs": [
+                "All My Favorite Songs",
+                "Aloo Gobi",
+                "Grapes Of Wrath",
+                "Numbers",
+                "Playing My Piano",
+                "Mirror Image",
+                "Screens",
+                "Bird With A Broken Wing",
+                "Dead Roses",
+                "Here Comes The Rain",
+                "La Brea Tar Pits"
+            ]
+        },
+        {
+            "album": "Van Weezer",
+            "cover": "covers/weezer/van.png",
+            "songs": [
+                "Hero",
+                "All The Good Ones",
+                "The End Of The Game",
+                "I Need Some Of That",
+                "Beginning Of The End",
+                "Blue Dream",
+                "1 More Hit",
+                "Sheila Can Do It",
+                "She Needs Me",
+                "Precious Metal Girl"
+            ]
+        },
+        {
+            "album": "SZNZ: Spring",
+            "cover": "covers/weezer/spring.jpg",
+            "songs": [
+                "Opening Night",
+                "Angels On Vacation",
+                "A Little Bit of Love",
+                "The Garden of Eden",
+                "The Sound Of Drums",
+                "All This Love",
+                "Wild At Heart"
+            ]
+        },
+        {
+            "album": "SZNZ: Summer",
+            "cover": "covers/weezer/summer.jpeg",
+            "songs": [
+                "Lawn Chair",
+                "Records",
+                "Blue Like Jazz",
+                "The Opposite Of Me",
+                "What's The Good Of Being Good",
+                "Cuomoville",
+                "Thank You and Good Night"
+            ]
+        },
+        {
+            "album": "SZNZ: Autumn",
+            "cover": "covers/weezer/autumn.jpg",
+            "songs": [
+                "Can't Dance, Don't  Ask Me",
+                "Get Off On The Pain",
+                "What Happens After You?",
+                "Francesca",
+                "Should She Stay or Should She Go",
+                "Tastes Like Pain",
+                "Run, Raven, Run"
+            ]
+        },
+        {
+            "album": "SZNZ: Winter",
+            "cover": "covers/weezer/winter.jpg",
+            "songs": [
+                "I Want A Dog",
+                "Iambic Pentameter",
+                "Basketball",
+                "Dark Enough to See the Stars",
+                "The One That Got Away",
+                "The Deep and Dreamless Sleep"
+            ]
+        },
+        {
+            "album": "Gold Album",
+            "cover": "covers/weezer/gold.jpg",
+            "songs": [
+                "Say Yes",
+                "Shine Again",
+                "Don't Make It Weird",
+                "We Might as Well Be Strangers (ft. Wednesday)",
+                "C.E.O.",
+                "Hoops",
+                "Nowhere",
+                "The Show Must Go On",
+                "Up In the Clouds",
+                "The LA Sound"
+            ]
+        },
+        {
+            "album": "Blue Album Deluxe",
+            "cover": "covers/weezer/blueDeluxe.jpg",
+            "songs": [
+                "Mykel And Carli - Single Version",
+                "Susanne - Single Version",
+                "My Evaline - Single Version",
+                "Jamie - DGC Rarities Version"
+            ]
+        },
+        {
+            "album": "Pinkerton Deluxe",
+            "cover": "covers/weezer/pinkertonDeluxe.png",
+            "songs": [
+                "You Gave Your Love To Me Softly",
+                "Tragic Girl",
+                "Devotion",
+                "I Swear It's True",
+                "I Just Threw Out The Love Of My Dreams",
+                "Long Time Sunshine",
+                "Waiting On You",
+                "You Won't Get With Me Tonight",
+                "Getting Up And Leaving"
+            ]
+        }
+    ]
+}

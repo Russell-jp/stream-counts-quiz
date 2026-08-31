@@ -1,0 +1,288 @@
+{
+    "artist": "blink-182",
+    "albums": [
+        {
+            "album": "Buddha",
+            "songs": [
+                "T.V.",
+                "Time",
+                "Romeo & Rebecca",
+                "21 Days",
+                "Sometimes",
+                "Point of View",
+                "My Pet Sally",
+                "Reebok Commercial",
+                "Toast & Bananas",
+                "The Girl Next Door",
+                "Don't"
+            ],
+            "cover": "covers/blink/buddha.jpg"
+        },
+        {
+            "album": "Cheshire Cat",
+            "songs": [
+                "Carousel",
+                "M+M's",
+                "Fentoozler",
+                "Touchdown Boy",
+                "Strings",
+                "Peggy Sue",
+                "Sometimes",
+                "Does My Breath Smell?",
+                "Cacophony",
+                "TV",
+                "Toast And Bananas",
+                "Wasting Time",
+                "Romeo And Rebecca",
+                "Ben Wah Balls",
+                "Just About Done",
+                "Depends"
+            ],
+            "cover": "covers/blink/cat.jpg"
+        },
+        {
+            "album": "Dude Ranch",
+            "songs": [
+                "Pathetic",
+                "Voyeur",
+                "Dammit",
+                "Boring",
+                "Dick Lips",
+                "Waggy",
+                "Enthused",
+                "Untitled",
+                "Apple Shampoo",
+                "Emo",
+                "Josie",
+                "A New Hope",
+                "Degenerate",
+                "Lemmings",
+                "I'm Sorry"
+            ],
+            "cover": "covers/blink/dude.jpg"
+        },
+        {
+            "album": "Enema Of The State",
+            "songs": [
+                "Dumpweed",
+                "Don't Leave Me",
+                "Aliens Exist",
+                "Going Away To College",
+                "What's My Age Again?",
+                "Dysentery Gary",
+                "Adam's Song",
+                "All The Small Things",
+                "The Party Song",
+                "Mutt",
+                "Wendy Clear",
+                "Anthem"
+            ],
+            "cover": "covers/blink/enema.jpg"
+        },
+        {
+            "album": "Take Off Your Pants And Jacket",
+            "songs": [
+                "Anthem Part Two",
+                "Online Songs",
+                "First Date",
+                "Happy Holidays, You Bastard",
+                "Story Of A Lonely Guy",
+                "The Rock Show",
+                "Stay Together For The Kids",
+                "Roller Coaster",
+                "Reckless Abandon",
+                "Every Time I Look For You",
+                "Give Me One Good Reason",
+                "Shut Up",
+                "Please Take Me Home"
+            ],
+            "cover": "covers/blink/takeoff.jpg"
+        },
+        {
+            "album": "blink-182",
+            "songs": [
+                "Feeling This",
+                "Obvious",
+                "I Miss You",
+                "Violence",
+                "Stockholm Syndrome",
+                "Down",
+                "The Fallen Interlude",
+                "Go",
+                "Asthenia",
+                "Always",
+                "Easy Target",
+                "All Of This",
+                "Here's Your Letter",
+                "I'm Lost Without You"
+            ],
+            "cover": "covers/blink/selftitled.jpg"
+        },
+        {
+            "album": "Neighborhoods",
+            "songs": [
+                "Ghost On The Dance Floor",
+                "Natives",
+                "Up All Night",
+                "After Midnight",
+                "Heart's All Gone Interlude",
+                "Heart's All Gone",
+                "Wishing Well",
+                "Kaleidoscope",
+                "This Is Home",
+                "MH 4.18.2011",
+                "Love Is Dangerous",
+                "Fighting The Gravity",
+                "Even If She Falls"
+            ],
+            "cover": "covers/blink/neighbor.jpeg"
+        },
+        {
+            "album": "California",
+            "songs": [
+                "Cynical",
+                "Bored To Death",
+                "She's Out Of Her Mind",
+                "Los Angeles",
+                "Sober",
+                "No Future",
+                "Home Is Such A Lonely Place",
+                "Kings of The Weekend",
+                "Teenage Satellites",
+                "Left Alone",
+                "Rabbit Hole (Explicit)",
+                "San Diego",
+                "The Only Thing That Matters",
+                "California",
+                "Brohemian Rhapsody"
+            ],
+            "cover": "covers/blink/cali.jpg"
+        },
+        {
+            "album": "California (Deluxe Edition)",
+            "songs": [
+                "Parking Lot",
+                "Misery",
+                "Good Old Days",
+                "Don't Mean Anything",
+                "Hey I'm Sorry",
+                "Last Train Home",
+                "Wildfire",
+                "6/8",
+                "Long Lost Feeling",
+                "Bottom Of The Ocean",
+                "Can't Get You More Pregnant"
+            ],
+            "cover": "covers/blink/caliD.jpg"
+        },
+        {
+            "album": "Nine",
+            "songs": [
+                "The First Time",
+                "Happy Days",
+                "Heaven",
+                "Darkside",
+                "Blame It On My Youth",
+                "Generational Divide",
+                "Run Away",
+                "Black Rain",
+                "I Really Wish I Hated You",
+                "Pin The Grenade",
+                "No Heart To Speak Of",
+                "Ransom",
+                "On Some Emo Shit",
+                "Hungover You",
+                "Remember To Forget Me"
+            ],
+            "cover": "covers/blink/nine.jpeg"
+        },
+        {
+            "album": "ONE MORE TIME...",
+            "songs": [
+                "ANTHEM PART 3",
+                "DANCE WITH ME",
+                "FELL IN LOVE",
+                "TERRIFIED",
+                "ONE MORE TIME",
+                "MORE THAN YOU KNOW",
+                "WHEN WE WERE YOUNG",
+                "EDGING",
+                "YOU DON'T KNOW WHAT YOU'VE GOT",
+                "BLINK WAVE",
+                "BAD NEWS",
+                "HURT (INTERLUDE)",
+                "TURPENTINE",
+                "OTHER SIDE",
+                "CUT ME OFF",
+                "SEE YOU",
+                "CHILDHOOD"
+            ],
+            "cover": "covers/blink/onemore.jpg"
+        },
+        {
+            "album": "ONE MORE TIME... PART 2",
+            "songs": [
+                "NO FUN",
+                "ALL IN MY HEAD",
+                "CAN'T GO BACK",
+                "EVERY OTHER WEEKEND",
+                "EVERYONE EVERYWHERE",
+                "ONE NIGHT STAND",
+                "TAKE ME IN"
+            ],
+            "cover": "covers/blink/onemore2.jpeg"
+        },
+        {
+            "album": "Take Off Your Pants And Jacket (25 Years Anniversary Edition)",
+            "songs": [
+                "Time To Break Up",
+                "Mother's Day",
+                "What Went Wrong?",
+                "Fuck A Dog",
+                "Don't Tell Me It's Over",
+                "When You Fucked Grandpa"
+            ],
+            "cover": "covers/blink/takeoff.jpg"
+        },
+        {
+            "album": "I Won't Be Home For Christmas",
+            "songs": [
+                "I Won't Be Home For Christmas"
+            ],
+            "cover": "covers/blink/wont-be-home.jpg"
+        },
+        {
+            "album": "Greatest Hits",
+            "songs": [
+                "Not Now",
+                "Another Girl Another Planet"
+            ],
+            "cover": "covers/blink/greatest.jpg"
+        },
+        {
+            "album": "Dogs Eating Dogs",
+            "songs": [
+                "When I Was Young",
+                "Dogs Eating Dogs",
+                "Disaster",
+                "Boxing Day",
+                "Pretty Little Girl"
+            ],
+            "cover": "covers/blink/dogs.jpg"
+        },
+        {
+            "album": "Not Another Christmas Song",
+            "songs": [
+                "Not Another Christmas Song"
+            ],
+            "cover": "covers/blink/not-christmas.jpeg"
+        },
+        {
+            "album": "Quarantine",
+            "songs": [
+                "Quarantine"
+            ],
+            "cover": "covers/blink/quarantine.jpeg"
+        }
+    ]
+}

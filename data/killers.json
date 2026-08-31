@@ -1,0 +1,250 @@
+{
+    "artist": "The Killers",
+    "albums": [
+        {
+            "album": "Hot Fuss",
+            "cover": "covers/killers/hotfuss.jpg",
+            "songs": [
+                "Jenny Was A Friend Of Mine",
+                "Mr. Brightside",
+                "Smile Like You Mean It",
+                "Somebody Told Me",
+                "All These Things That I've Done",
+                "Andy, You're A Star",
+                "On Top",
+                "Change Your Mind",
+                "Believe Me Natalie",
+                "Midnight Show",
+                "Everything Will Be Alright",
+                "Glamorous Indie Rock & Roll"
+            ]
+        },
+        {
+            "album": "Sam's Town",
+            "cover": "covers/killers/sam.jpeg",
+            "songs": [
+                "Sam's Town",
+                "Enterlude",
+                "When You Were Young",
+                "Bling (Confession Of A King)",
+                "For Reasons Unknown",
+                "Read My Mind",
+                "Uncle Jonny",
+                "Bones",
+                "My List",
+                "This River Is Wild",
+                "Why Do I Keep Counting?",
+                "Exitlude"
+            ]
+        },
+        {
+            "album": "Day & Age",
+            "cover": "covers/killers/day.jpg",
+            "songs": [
+                "Losing Touch",
+                "Human",
+                "Spaceman",
+                "Joy Ride",
+                "A Dustland Fairytale",
+                "This Is Your Life",
+                "I Can't Stay",
+                "Neon Tiger",
+                "The World We Live In",
+                "Goodnight, Travel Well"
+            ]
+        },
+        {
+            "album": "Battle Born",
+            "cover": "covers/killers/battle.jpg",
+            "songs": [
+                "Flesh and Bone",
+                "Runaways",
+                "The Way It Was",
+                "Here With Me",
+                "A Matter of Time",
+                "Deadlines and Commitments",
+                "Miss Atomic Bomb",
+                "The Rising Tide",
+                "Heart of a Girl",
+                "From Here on Out",
+                "Be Still",
+                "Battle Born"
+            ]
+        },
+        {
+            "album": "Don't Waste Your Wishes",
+            "cover": "covers/killers/wishes.jpg",
+            "songs": [
+                "A Great Big Sled",
+                "Don't Shoot Me Santa",
+                "Joseph, Better You Than Me",
+                "¡Happy Birthday Guadalupe!",
+                "Boots",
+                "The Cowboys' Christmas Ball",
+                "I Feel It In My Bones",
+                "Christmas In L.A.",
+                "Joel The Lump Of Coal",
+                "Dirt Sledding",
+                "I'll Be Home For Christmas"
+            ]
+        },
+        {
+            "album": "Wonderful Wonderful",
+            "cover": "covers/killers/wonderful.jpg",
+            "songs": [
+                "Wonderful Wonderful",
+                "The Man",
+                "Rut",
+                "Life To Come",
+                "Run For Cover",
+                "Tyson vs Douglas",
+                "Some Kind Of Love",
+                "Out Of My Mind",
+                "The Calling",
+                "Have All The Songs Been Written?"
+            ]
+        },
+        {
+            "album": "Imploding the Mirage",
+            "cover": "covers/killers/mirage.jpg",
+            "songs": [
+                "My Own Soul's Warning",
+                "Blowback",
+                "Dying Breed",
+                "Caution",
+                "Lightning Fields (feat. k.d. lang)",
+                "Fire In Bone",
+                "Running Towards A Place",
+                "My God (feat. Weyes Blood)",
+                "When The Dreams Run Dry",
+                "Imploding The Mirage"
+            ]
+        },
+        {
+            "album": "Pressure Machine",
+            "cover": "covers/killers/pressure.jpg",
+            "songs": [
+                "West Hills",
+                "Quiet Town",
+                "Terrible Thing",
+                "Cody",
+                "Sleepwalker",
+                "Runaway Horses (feat. Phoebe Bridgers)",
+                "In The Car Outside",
+                "In Another Life",
+                "Desperate Things",
+                "Pressure Machine",
+                "The Getting By"
+            ]
+        },
+        {
+            "album": "Day & Age (Bonus Tracks)",
+            "cover": "covers/killers/day.jpg",
+            "songs": [
+                "Tidal Wave - Bonus Track",
+                "Forget About What I Said - Bonus Track"
+            ]
+        },
+        {
+            "album": "Battle Born (Japan Version)",
+            "cover": "covers/killers/battle.jpg",
+            "songs": [
+                "Carry Me Home",
+                "Prize Fighter"
+            ]
+        },
+        {
+            "album": "Wonderful Wonderful (Deluxe)",
+            "cover": "covers/killers/wonderfulD.jpeg",
+            "songs": [
+                "Money On Straight"
+            ]
+        },
+        {
+            "album": "Imploding the Mirage (Deluxe)",
+            "cover": "covers/killers/mirageD.jpeg",
+            "songs": [
+                "C'est La Vie"
+            ]
+        },
+        {
+            "album": "Smile Like You Mean It (Remixes)",
+            "cover": "covers/killers/smile.jpeg",
+            "songs": [
+                "Get Trashed"
+            ]
+        },
+        {
+            "album": "Sawdust",
+            "cover": "covers/killers/sawdust.jpg",
+            "songs": [
+                "Tranquilize",
+                "Shadowplay",
+                "All The Pretty Faces",
+                "Leave The Bourbon On The Shelf",
+                "Sweet Talk",
+                "Under The Gun",
+                "Where The White Boys Dance",
+                "Show You How",
+                "Move Away",
+                "Who Let You Go?",
+                "The Ballad Of Michael Valentine",
+                "Ruby, Don't Take Your Love To Town",
+                "Daddy's Eyes",
+                "Romeo And Juliet"
+            ]
+        },
+        {
+            "album": "Human",
+            "cover": "covers/killers/.jpeg",
+            "songs": [
+                "A Crippling Blow"
+            ]
+        },
+        {
+            "album": "Spaceman (Remixes)",
+            "cover": "covers/killers/spaceman.jpg",
+            "songs": [
+                "Four Winds"
+            ]
+        },
+        {
+            "album": "Direct Hits",
+            "cover": "covers/killers/directhits.jpg",
+            "songs": [
+                "Shot At The Night",
+                "Just Another Girl"
+            ]
+        },
+        {
+            "album": "Peace Of Mind",
+            "cover": "covers/killers/peace-of-mind.jpeg",
+            "songs": [
+                "Peace Of Mind"
+            ]
+        },
+        {
+            "album": "Land Of The Free",
+            "cover": "covers/killers/land-of-the-free.jpg",
+            "songs": [
+                "Land Of The Free"
+            ]
+        },
+        {
+            "album": "Rebel Diamonds",
+            "cover": "covers/killers/diamonds.jpg",
+            "songs": [
+                "boy",
+                "Your Side of Town",
+                "Spirit"
+            ]
+        },
+        {
+            "album": "Bright Lights",
+            "cover": "covers/killers/brightLights.jpg",
+            "songs": [
+                "Bright Lights"
+            ]
+        }
+    ]
+}

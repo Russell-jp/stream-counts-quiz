@@ -1,0 +1,177 @@
+{
+    "artist": "Rex Orange County",
+    "albums": [
+        {
+            "album": "Bcos U Will Never B Free",
+            "cover": "covers/rex/free.jpeg",
+            "songs": [
+                "Rex (Intro)",
+                "Paradise",
+                "Belly (The Grass Stains)",
+                "Corduroy Dreams",
+                "Japan",
+                "Portrait of Ned",
+                "Green Eyes, Pt. II",
+                "A Song About Being Sad",
+                "Know Love",
+                "Curfew..."
+            ]
+        },
+        {
+            "album": "Apricot Princess",
+            "cover": "covers/rex/apricot.jpg",
+            "songs": [
+                "Apricot Princess",
+                "Television / So Far So Good",
+                "Nothing",
+                "Sycamore Girl",
+                "Untitled",
+                "4 Seasons",
+                "Waiting Room",
+                "Rain Man",
+                "Never Enough",
+                "Happiness"
+            ]
+        },
+        {
+            "album": "Pony",
+            "cover": "covers/rex/pony.jpeg",
+            "songs": [
+                "10/10",
+                "Always",
+                "Laser Lights",
+                "Face To Face",
+                "Stressed Out",
+                "Never Had The Balls",
+                "Pluto Projector",
+                "Every Way",
+                "It Gets Better",
+                "It's Not The Same Anymore"
+            ]
+        },
+        {
+            "album": "Who Cares?",
+            "cover": "covers/rex/whocares.jpeg",
+            "songs": [
+                "KEEP IT UP",
+                "OPEN A WINDOW (feat. Tyler, The Creator)",
+                "WORTH IT",
+                "AMAZING",
+                "ONE IN A MILLION",
+                "IF YOU WANT IT",
+                "7AM",
+                "THE SHADE",
+                "MAKING TIME",
+                "SHOOT ME DOWN",
+                "WHO CARES?"
+            ]
+        },
+        {
+            "album": "The Alexander Technique",
+            "cover": "covers/rex/alex.jpg",
+            "songs": [
+                "Alexander",
+                "Guitar Song",
+                "2008",
+                "Therapy",
+                "4 In The Morning",
+                "Jealousy",
+                "The Table",
+                "Pure",
+                "One Of These Days",
+                "Carrera",
+                "Much Too Much",
+                "Sliding Doors",
+                "Lost For Words",
+                "Look Me In The Eyes (feat. James Blake)",
+                "New Years",
+                "Finally"
+            ]
+        },
+        {
+            "album": "Uno",
+            "cover": "covers/rex/uno.jpg",
+            "songs": [
+                "Uno"
+            ]
+        },
+        {
+            "album": "Best Friend",
+            "cover": "covers/rex/best-friend.jpg",
+            "songs": [
+                "Best Friend"
+            ]
+        },
+        {
+            "album": "Sunflower",
+            "cover": "covers/rex/sunflower.jpg",
+            "songs": [
+                "Sunflower"
+            ]
+        },
+        {
+            "album": "Edition",
+            "cover": "covers/rex/edition.jpg",
+            "songs": [
+                "Edition"
+            ]
+        },
+        {
+            "album": "Loving Is Easy",
+            "cover": "covers/rex/loving.jpg",
+            "songs": [
+                "Loving Is Easy"
+            ]
+        },
+        {
+            "album": "You've Got a Friend in Me",
+            "cover": "covers/rex/friend-in-me.jpg",
+            "songs": [
+                "You've Got a Friend in Me"
+            ]
+        },
+        {
+            "album": "New House",
+            "cover": "covers/rex/house.jpeg",
+            "songs": [
+                "New House"
+            ]
+        },
+        {
+            "album": "Drama",
+            "cover": "covers/rex/house.jpeg",
+            "songs": [
+                "Drama"
+            ]
+        },
+        {
+            "album": "THREAT",
+            "cover": "covers/rex/threat.jpg",
+            "songs": [
+                "THREAT"
+            ]
+        },
+        {
+            "album": "Rearrange My World / There's a Field (That's Only Yours)",
+            "cover": "covers/rex/rearrange.jpg",
+            "songs": [
+                "* Rearrange My World",
+                "* There’s a Field (That’s Only Yours)"
+            ]
+        },
+        {
+            "album": "Take A Drive",
+            "cover": "covers/rex/drive.jpeg",
+            "songs": [
+                "Take A Drive"
+            ]
+        },
+        {
+            "album": "Indecision (feat. Daniel Caesar)",
+            "cover": "covers/rex/indecision.jpg",
+            "songs": [
+                "Indecision (feat. Daniel Caesar)"
+            ]
+        }
+    ]
+}

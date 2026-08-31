@@ -1,0 +1,167 @@
+{
+    "artist": "Panic! At The Disco",
+    "albums": [
+        {
+            "album": "A Fever You Can't Sweat Out",
+            "cover": "covers/panic/fever.jpeg",
+            "songs": [
+                "Introduction",
+                "The Only Difference Between Martyrdom And Suicide Is Press Coverage",
+                "London Beckoned Songs About Money Written By Machines",
+                "Nails For Breakfast, Tacks For Snacks",
+                "Camisado",
+                "Time To Dance",
+                "Lying Is The Most Fun A Girl Can Have Without Taking Her Clothes Off",
+                "Intermission",
+                "But It's Better If You Do",
+                "I Write Sins Not Tragedies",
+                "I Constantly Thank God For Esteban",
+                "There's A Good Reason These Tables Are Numbered Honey, You Just Haven't Thought Of It Yet",
+                "Build God, Then We'll Talk"
+            ]
+        },
+        {
+            "album": "Pretty. Odd.",
+            "cover": "covers/panic/pretty-odd.jpeg",
+            "songs": [
+                "We're So Starving",
+                "Nine in the Afternoon - Single Mix",
+                "She's A Handsome Woman",
+                "Do You Know What I'm Seeing?",
+                "That Green Gentleman (Things Have Changed)",
+                "I Have Friends In Holy Spaces",
+                "Northern Downpour",
+                "When The Day Met The Night",
+                "Pas De Cheval",
+                "The Piano Knows Something I Don't Know",
+                "Behind The Sea",
+                "Folkin' Around",
+                "She Had The World",
+                "From A Mountain In The Middle Of The Cabins",
+                "Mad As Rabbits"
+            ]
+        },
+        {
+            "album": "New Perspective",
+            "cover": "covers/panic/new-perspective.jpeg",
+            "songs": [
+                "New Perspective"
+            ]
+        },
+        {
+            "album": "Vices & Virtues",
+            "cover": "covers/panic/vices.jpeg",
+            "songs": [
+                "The Ballad Of Mona Lisa",
+                "Let's Kill Tonight",
+                "Hurricane",
+                "Memories",
+                "Trade Mistakes",
+                "Ready To Go (Get Me Out Of My Mind)",
+                "Always",
+                "The Calendar",
+                "Sarah Smiles",
+                "Nearly Witches (Ever Since We Met...)",
+                "I Wanna Be Free",
+                "Turn Off The Lights"
+            ]
+        },
+        {
+            "album": "Too Weird To Live, Too Rare To Die!",
+            "cover": "covers/panic/weird.jpg",
+            "songs": [
+                "This Is Gospel",
+                "Miss Jackson (feat. LOLO)",
+                "Vegas Lights",
+                "Girl That You Love",
+                "Nicotine",
+                "Girls / Girls / Boys",
+                "Casual Affair",
+                "Far Too Young To Die",
+                "Collar Full",
+                "The End Of All Things"
+            ]
+        },
+        {
+            "album": "Death Of A Bachelor",
+            "cover": "covers/panic/bachelor.jpeg",
+            "songs": [
+                "Victorious",
+                "Don't Threaten Me With A Good Time",
+                "Hallelujah",
+                "Emperor's New Clothes",
+                "Death Of A Bachelor",
+                "Crazy = Genius",
+                "La Devotee",
+                "Golden Days",
+                "The Good, The Bad And The Dirty",
+                "House Of Memories",
+                "Impossible Year"
+            ]
+        },
+        {
+            "album": "Pray For The Wicked",
+            "cover": "covers/panic/pftw.jpeg",
+            "songs": [
+                "(Fuck A) Silver Lining",
+                "Say Amen (Saturday Night)",
+                "Hey Look Ma, I Made It",
+                "High Hopes",
+                "Roaring 20s",
+                "Dancing's Not A Crime",
+                "One Of The Drunks",
+                "The Overpass",
+                "King Of The Clouds",
+                "Old Fashioned",
+                "Dying In LA"
+            ]
+        },
+        {
+            "album": "Viva Las Vengeance",
+            "cover": "covers/panic/viva.jpeg",
+            "songs": [
+                "Viva Las Vengeance",
+                "Middle Of A Breakup",
+                "Don't Let The Light Go Out",
+                "Local God",
+                "Star Spangled Banger",
+                "God Killed Rock And Roll",
+                "Say It Louder",
+                "Sugar Soaker",
+                "Something About Maggie",
+                "Sad Clown",
+                "All By Yourself",
+                "Do It To Death"
+            ]
+        },
+        {
+            "album": "C'mon - Single Version",
+            "cover": "covers/panic/comeon.jpg",
+            "songs": [
+                "C'mon - Single Version"
+            ]
+        },
+        {
+            "album": "Nicotine - EP",
+            "cover": "covers/panic/nicotine.jpeg",
+            "songs": [
+                "Can't Fight Against The Youth",
+                "All The Boys"
+            ]
+        },
+        {
+            "album": "The Greatest Show",
+            "cover": "covers/panic/the-greatest-show.jpeg",
+            "songs": [
+                "The Greatest Show"
+            ]
+        },
+        {
+            "album": "Lover",
+            "cover": "covers/panic/lover.jpeg",
+            "songs": [
+                "* ME! (feat. Brendon Urie of Panic! At The Disco)"
+            ]
+        }
+    ]
+}

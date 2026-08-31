@@ -1,0 +1,144 @@
+{
+    "artist": "My Chemical Romance",
+    "albums": [
+        {
+            "album": "I Brought You My Bullets, You Brought Me Your Love",
+            "cover": "covers/mcr/bullets.jpg",
+            "songs": [
+                "Romance",
+                "Honey, This Mirror Isn't Big Enough for the Two of Us",
+                "Vampires Will Never Hurt You",
+                "Drowning Lessons",
+                "Our Lady of Sorrows",
+                "Headfirst for Halos",
+                "Skylines and Turnstiles",
+                "Early Sunsets Over Monroeville",
+                "This Is the Best Day Ever",
+                "Cubicles",
+                "Demolition Lovers"
+            ]
+        },
+        {
+            "album": "Three Cheers for Sweet Revenge",
+            "cover": "covers/mcr/cheers.jpeg",
+            "songs": [
+                "Helena",
+                "Give 'Em Hell, Kid",
+                "To the End",
+                "You Know What They Do to Guys Like Us in Prison",
+                "I'm Not Okay (I Promise)",
+                "The Ghost of You",
+                "The Jetset Life Is Gonna Kill You",
+                "Interlude",
+                "Thank You for the Venom",
+                "Hang 'Em High",
+                "It's Not a Fashion Statement, It's a Deathwish",
+                "Cemetery Drive",
+                "I Never Told You What I Do for a Living"
+            ]
+        },
+        {
+            "album": "The Black Parade",
+            "cover": "covers/mcr/parade.jpg",
+            "songs": [
+                "The End.",
+                "Dead!",
+                "This Is How I Disappear",
+                "The Sharpest Lives",
+                "Welcome to the Black Parade",
+                "I Don't Love You",
+                "House of Wolves",
+                "Cancer",
+                "Mama",
+                "Sleep",
+                "Teenagers",
+                "Disenchanted",
+                "Famous Last Words"
+            ]
+        },
+        {
+            "album": "Danger Days: The True Lives of the Fabulous Killjoys",
+            "cover": "covers/mcr/danger.jpg",
+            "songs": [
+                "Look Alive, Sunshine",
+                "Na Na Na (Na Na Na Na Na Na Na Na Na)",
+                "Bulletproof Heart",
+                "SING",
+                "Planetary (GO!)",
+                "The Only Hope for Me Is You",
+                "Party Poison",
+                "Save Yourself, I'll Hold Them Back",
+                "S/C/A/R/E/C/R/O/W",
+                "Summertime",
+                "DESTROYA",
+                "The Kids from Yesterday",
+                "Goodnite, Dr. Death",
+                "Vampire Money"
+            ]
+        },
+        {
+            "album": "Conventional Weapons",
+            "cover": "covers/mcr/conventionalWeapons.jpg",
+            "songs": [
+                "Boy Division",
+                "Tomorrow's Money",
+                "AMBULANCE",
+                "Gun.",
+                "The World Is Ugly",
+                "The Light Behind Your Eyes",
+                "Kiss the Ring",
+                "Make Room!!!!",
+                "Surrender the Night",
+                "Burn Bright"
+            ]
+        },
+        {
+            "album": "Life on the Murder Scene",
+            "cover": "covers/mcr/murder.jpg",
+            "songs": [
+                "Desert Song"
+            ]
+        },
+        {
+            "album": "The Black Parade: The B-Sides",
+            "cover": "covers/mcr/ParadeBSide.jpeg",
+            "songs": [
+                "My Way Home Is Through You",
+                "Heaven Help Us",
+                "Kill All Your Friends"
+            ]
+        },
+        {
+            "album": "The Mad Gear and Missile Kid EP",
+            "cover": "covers/mcr/mad.jpg",
+            "songs": [
+                "F.T.W.W.W. - 2026 Remaster",
+                "Mastas of Ravenkroft - 2026 Remaster",
+                "Black Dragon Fighting Society - 2026 Remaster"
+            ]
+        },
+        {
+            "album": "Fake Your Death",
+            "cover": "covers/mcr/fyd.jpeg",
+            "songs": [
+                "Fake Your Death"
+            ]
+        },
+        {
+            "album": "Danger Days: The True Lives of the Fabulous Killjoys (Deluxe Edition)",
+            "cover": "covers/mcr/dangerDeluxe.jpg",
+            "songs": [
+                "We Don't Need Another Song About California - 2026 Remaster",
+                "Zero Percent - 2026 Remaster",
+                "Common People - Recorded For BBC Radio 1"
+            ]
+        },
+        {
+            "album": "The Foundations of Decay",
+            "cover": "covers/mcr/decay.jpeg",
+            "songs": [
+                "The Foundations of Decay"
+            ]
+        }
+    ]
+}

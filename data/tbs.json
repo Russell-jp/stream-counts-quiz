@@ -1,0 +1,173 @@
+{
+    "artist": "Taking Back Sunday",
+    "albums": [
+        {
+            "album": "Tell All Your Friends",
+            "cover": "covers/tbs/tayf.jpg",
+            "songs": [
+                "You Know How I Do",
+                "Bike Scene",
+                "Cute Without The 'E' (Cut From The Team)",
+                "There's No 'I' In Team",
+                "Great Romances Of The 20th Century",
+                "Ghost Man On Third",
+                "Timberwolves At New Jersey",
+                "The Blue Channel",
+                "You're So Last Summer",
+                "Head Club"
+            ]
+        },
+        {
+            "album": "Where You Want To Be",
+            "cover": "covers/tbs/wywtb.jpg",
+            "songs": [
+                "Set Phasers To Stun",
+                "Bonus Mosh Pt. II",
+                "A Decade Under The Influence",
+                "This Photograph Is Proof (I Know You Know)",
+                "The Union",
+                "New American Classic",
+                "I Am Fred Astaire",
+                "One-Eighty By Summer",
+                "Number Five With A Bullet",
+                "Little Devotional",
+                "...Slowdance On The Inside"
+            ]
+        },
+        {
+            "album": "Louder Now",
+            "cover": "covers/tbs/louder.jpg",
+            "songs": [
+                "What's It Feel Like To Be A Ghost?",
+                "Liar (It Takes One To Know One)",
+                "MakeDamnSure",
+                "Up Against (Blackout)",
+                "My Blue Heaven",
+                "Twenty-Twenty Surgery",
+                "Spin",
+                "Divine Intervention",
+                "Miami",
+                "Error Operator",
+                "I'll Let You Live"
+            ]
+        },
+        {
+            "album": "New Again",
+            "cover": "covers/tbs/new-again.jpg",
+            "songs": [
+                "New Again",
+                "Sink Into Me",
+                "Lonely, Lonely",
+                "Summer, Man",
+                "Swing",
+                "Where My Mouth Is",
+                "Cut Me Up Jenny",
+                "Catholic Knees",
+                "Capital M-E",
+                "Carpathia",
+                "Everything Must Go"
+            ]
+        },
+        {
+            "album": "Taking Back Sunday",
+            "cover": "covers/tbs/tbs.jpg",
+            "songs": [
+                "El Paso",
+                "Faith (When I Let You Down)",
+                "Best Places To Be A Mom",
+                "Sad Savior",
+                "Who Are You Anyway?",
+                "It Doesn't Feel A Thing Like Falling",
+                "Since You're Gone",
+                "You Got Me",
+                "Call Me In The Morning"
+            ]
+        },
+        {
+            "album": "Happiness Is",
+            "cover": "covers/tbs/happiness.jpg",
+            "songs": [
+                "Preface",
+                "Flicker, Fade",
+                "Stood A Chance",
+                "All The Way",
+                "Beat Up Car",
+                "It Takes More",
+                "They Don't Have Any Friends",
+                "Better Homes And Gardens",
+                "Like You Do",
+                "We Were Younger Then",
+                "Nothing At All"
+            ]
+        },
+        {
+            "album": "Tidal Wave",
+            "cover": "covers/tbs/tidal.jpg",
+            "songs": [
+                "Death Wolf",
+                "Tidal Wave",
+                "You Can't Look Back",
+                "Fences",
+                "All Excess",
+                "I Felt It Too",
+                "Call Come Running",
+                "Holy Water",
+                "In The Middle Of It All",
+                "We Don't Go In There",
+                "Homecoming",
+                "I'll Find A Way To Make It What You Want"
+            ]
+        },
+        {
+            "album": "Twenty",
+            "cover": "covers/tbs/twenty.png",
+            "songs": [
+                "All Ready To Go",
+                " A Song for Dan"
+            ]
+        },
+        {
+            "album": "152",
+            "cover": "covers/tbs/152.jpg",
+            "songs": [
+                "Amphetamine Smiles",
+                "S'old",
+                "The One",
+                "Keep Going",
+                "I Am The Only One Who Knows You",
+                "Quit Trying",
+                "Lightbringer",
+                "New Music Friday",
+                "Juice 2 Me",
+                "The Stranger"
+            ]
+        },
+        {
+            "album": "Louder Now (Deluxe Edition)",
+            "cover": "covers/tbs/louder.jpg",
+            "songs": [
+                "Brooklyn (If You See Something, Say Something)",
+                "Sleep",
+                "This Is All Now"
+            ]
+        },
+        {
+            "album": "Happiness Is: The Complete Recordings",
+            "cover": "covers/tbs/happiness-comp.jpg",
+            "songs": [
+                "This Is All Now",
+                "Best Places To Be A Mom",
+                "How I Met Your Mother",
+                "This Is Happening",
+                "Can You Feel That (Here I Am)"
+            ]
+        },
+        {
+            "album": "Just Us Two",
+            "cover": "covers/tbs/just.jpg",
+            "songs": [
+                "* Just Us Two"
+            ]
+        }
+    ]
+}

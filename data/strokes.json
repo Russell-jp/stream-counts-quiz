@@ -1,0 +1,132 @@
+{
+    "artist": "The Strokes",
+    "albums": [
+        {
+            "album": "Is This It",
+            "cover": "covers/strokes/isthisit.jpg",
+            "songs": [
+                "Is This It",
+                "The Modern Age",
+                "Soma",
+                "Barely Legal",
+                "Someday",
+                "Alone, Together",
+                "Last Nite",
+                "Hard to Explain",
+                "When It Started",
+                "New York City Cops",
+                "Trying Your Luck",
+                "Take It or Leave It"
+            ]
+        },
+        {
+            "album": "Room on Fire",
+            "cover": "covers/strokes/room.jpeg",
+            "songs": [
+                "What Ever Happened?",
+                "Reptilia",
+                "Automatic Stop",
+                "12:51",
+                "You Talk Way Too Much",
+                "Between Love & Hate",
+                "Meet Me in the Bathroom",
+                "Under Control",
+                "The Way It Is",
+                "The End Has No End",
+                "I Can't Win"
+            ]
+        },
+        {
+            "album": "First Impressions of Earth",
+            "cover": "covers/strokes/impression.jpeg",
+            "songs": [
+                "You Only Live Once",
+                "Juicebox",
+                "Heart in a Cage",
+                "Razorblade",
+                "On the Other Side",
+                "Vision of Division",
+                "Ask Me Anything",
+                "Electricityscape",
+                "Killing Lies",
+                "Fear of Sleep",
+                "15 Minutes",
+                "Ize of the World",
+                "Evening Sun",
+                "Red Light"
+            ]
+        },
+        {
+            "album": "Angles",
+            "cover": "covers/strokes/angles.jpeg",
+            "songs": [
+                "Machu Picchu",
+                "Under Cover of Darkness",
+                "Two Kinds of Happiness",
+                "You're So Right",
+                "Taken for a Fool",
+                "Games",
+                "Call Me Back",
+                "Gratisfaction",
+                "Metabolism",
+                "Life Is Simple in the Moonlight"
+            ]
+        },
+        {
+            "album": "Comedown Machine",
+            "cover": "covers/strokes/machine.jpg",
+            "songs": [
+                "Tap Out",
+                "All the Time",
+                "One Way Trigger",
+                "Welcome to Japan",
+                "80's Comedown Machine",
+                "50/50",
+                "Slow Animals",
+                "Partners in Crime",
+                "Chances",
+                "Happy Ending",
+                "Call It Fate, Call It Karma"
+            ]
+        },
+        {
+            "album": "The New Abnormal",
+            "cover": "covers/strokes/abnormal.jpeg",
+            "songs": [
+                "The Adults Are Talking",
+                "Selfless",
+                "Brooklyn Bridge to Chorus",
+                "Bad Decisions",
+                "Eternal Summer",
+                "At the Door",
+                "Why Are Sundays So Depressing",
+                "Not the Same Anymore",
+                "Ode to the Mets"
+            ]
+        },
+        {
+            "album": "Future Present Past",
+            "cover": "covers/strokes/future.jpg",
+            "songs": [
+                "Drag Queen",
+                "OBLIVIUS",
+                "Threat of Joy"
+            ]
+        },
+        {
+            "album": "Reality Awaits",
+            "cover": "covers/strokes/reality.jpeg",
+            "songs": [
+                "Psycho Shit",
+                "Dine N'Dash",
+                "Lonely in the Future",
+                "Falling out of Love",
+                "Going to Babble On",
+                "Going Shopping",
+                "Liar's Remorse",
+                "The Fruits of Conquest",
+                "Tyrants of the Mellow Moon"
+            ]
+        }
+    ]
+}

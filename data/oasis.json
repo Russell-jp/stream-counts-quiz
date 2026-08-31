@@ -1,0 +1,260 @@
+{
+    "artist": "Oasis",
+    "albums": [
+        {
+            "album": "Definitely Maybe",
+            "cover": "covers/oasis/definitely.jpg",
+            "songs": [
+                "Rock 'n' Roll Star",
+                "Shakermaker",
+                "Live Forever",
+                "Cloudburst",
+                "Up In The Sky",
+                "Sad Song",
+                "Columbia",
+                "Supersonic",
+                "Bring It On Down",
+                "Cigarettes & Alcohol",
+                "Digsy's Dinner",
+                "Slide Away",
+                "Married With Children"
+            ]
+        },
+        {
+            "album": "(What's the Story) Morning Glory?",
+            "cover": "covers/oasis/morning.jpg",
+            "songs": [
+                "Hello",
+                "Roll with It",
+                "Wonderwall",
+                "Don't Look Back in Anger",
+                "Hey Now",
+                "The Swamp Song — Version 1",
+                "Some Might Say",
+                "Cast No Shadow",
+                "She's Electric",
+                "Morning Glory",
+                "The Swamp Song — Version 2",
+                "Champagne Supernova"
+            ]
+        },
+        {
+            "album": "Be Here Now",
+            "cover": "covers/oasis/beHereNow.jpeg",
+            "songs": [
+                "D'you Know What I Mean?",
+                "My Big Mouth",
+                "Magic Pie",
+                "Stand By Me",
+                "I Hope, I Think, I Know",
+                "The Girl in the Dirty Shirt",
+                "Fade In-out",
+                "Don't Go Away",
+                "Be Here Now",
+                "All Around the World",
+                "It's Gettin' Better (Man!!)",
+                "All Around the World (Reprise)"
+            ]
+        },
+        {
+            "album": "Standing on the Shoulder of Giants",
+            "cover": "covers/oasis/standing.jpg",
+            "songs": [
+                "Fuckin' in the Bushes",
+                "Go Let It Out",
+                "Who Feels Love?",
+                "Put Yer Money Where Yer Mouth Is",
+                "Little James",
+                "Gas Panic!",
+                "Where Did It All Go Wrong?",
+                "Sunday Morning Call",
+                "I Can See a Liar",
+                "Roll It Over",
+                "Let's All Make Believe"
+            ]
+        },
+        {
+            "album": "Heathen Chemistry",
+            "cover": "covers/oasis/heathen.jpg",
+            "songs": [
+                "The Hindu Times",
+                "Force of Nature",
+                "Hung in a Bad Place",
+                "Stop Crying Your Heart Out",
+                "Songbird",
+                "Little By Little",
+                "A Quick Peep",
+                "(Probably) All in the Mind",
+                "She Is Love",
+                "Born On a Different Cloud",
+                "Better Man"
+            ]
+        },
+        {
+            "album": "Don't Believe the Truth",
+            "cover": "covers/oasis/truth.png",
+            "songs": [
+                "Turn Up the Sun",
+                "Mucky Fingers",
+                "Lyla",
+                "Love Like a Bomb",
+                "The Importance of Being Idle",
+                "The Meaning of Soul",
+                "Guess God Thinks I'm Abel",
+                "Part Of The Queue",
+                "Keep The Dream Alive",
+                "A Bell Will Ring",
+                "Let There Be Love",
+                "Sitting Here In Silence (On My Own)"
+            ]
+        },
+        {
+            "album": "Dig Out Your Soul",
+            "cover": "covers/oasis/dig.jpg",
+            "songs": [
+                "Bag It Up",
+                "The Turning",
+                "Waiting For The Rapture",
+                "The Shock Of The Lightning",
+                "I'm Outta Time",
+                "(Get Off Your) High Horse Lady",
+                "Falling Down",
+                "To Be Where There's Life",
+                "Ain't Got Nothin'",
+                "The Nature Of Reality",
+                "Soldier On"
+            ]
+        },
+        {
+            "album": "The Masterplan",
+            "cover": "covers/oasis/masterplan.jpg",
+            "songs": [
+                "Acquiesce",
+                "Underneath the Sky",
+                "Talk Tonight",
+                "Going Nowhere",
+                "Fade Away",
+                "The Swamp Song",
+                "I Am The Walrus – Live Glasgow Cathouse June '94",
+                "Listen Up",
+                "Rockin' Chair",
+                "Half the World Away",
+                "(It's Good) To Be Free",
+                "Stay Young",
+                "Headshrinker",
+                "The Masterplan"
+            ]
+        },
+        {
+            "album": "Who Feels Love?",
+            "cover": "covers/oasis/whoFeelsLove.jpg",
+            "songs": [
+                "One Way Road"
+            ]
+        },
+        {
+            "album": "Sunday Morning Call",
+            "cover": "covers/oasis/sunday.jpg",
+            "songs": [
+                "Carry Us All",
+                "Full On"
+            ]
+        },
+        {
+            "album": "The Hindu Times",
+            "cover": "covers/oasis/theHindu.jpg",
+            "songs": [
+                "Just Getting Older",
+                "Idler's Dream"
+            ]
+        },
+        {
+            "album": "Stop Crying Your Heart Out",
+            "cover": "covers/oasis/scyho.jpg",
+            "songs": [
+                "Thank You For The Good Times",
+                "Shout It Out Loud"
+            ]
+        },
+        {
+            "album": "Little By Little/ She Is Love",
+            "cover": "covers/oasis/little.jpg",
+            "songs": [
+                "My Generation"
+            ]
+        },
+        {
+            "album": "Songbird",
+            "cover": "covers/oasis/songbird.jpg",
+            "songs": [
+                "(You've Got) The Heart Of A Star"
+            ]
+        },
+        {
+            "album": "Lyla",
+            "cover": "covers/oasis/lyla.jpg",
+            "songs": [
+                "Eyeball Tickler",
+                "Won’t Let You Down"
+            ]
+        },
+        {
+            "album": "The Importance OF Being Idle",
+            "cover": "covers/oasis/importance.jpg",
+            "songs": [
+                "Pass me Down The Wine",
+                "The Quiet Ones"
+            ]
+        },
+        {
+            "album": "Lord Don't Slow Me Down",
+            "cover": "covers/oasis/lord.jpg",
+            "songs": [
+                "Lord Don't Slow Me Down"
+            ]
+        },
+        {
+            "album": "Falling Down",
+            "cover": "covers/oasis/fallingDown.jpg",
+            "songs": [
+                "Those Swollen Hand Blues"
+            ]
+        },
+        {
+            "album": "Definitely Maybe (Remastered)",
+            "cover": "covers/oasis/definitelyDeluxe.jpeg",
+            "songs": [
+                "Take Me Away"
+            ]
+        },
+        {
+            "album": "(What's the Story) Morning Glory? Deluxe",
+            "cover": "covers/oasis/morningDeluxe.jpg",
+            "songs": [
+                "Cum On Feel the Noize",
+                "Round Are Way",
+                "Bonehead's Bank Holiday",
+                "You've Got to Hide Your Love Away",
+                "It's Better People",
+                "Step Out"
+            ]
+        },
+        {
+            "album": "Be Here Now Deluxe",
+            "cover": "covers/oasis/beHereNow.jpeg",
+            "songs": [
+                "The Fame",
+                "Flashbax",
+                "(I Got) The Fever",
+                "My Sister Lover"
+            ]
+        },
+        {
+            "album": "Whatever",
+            "cover": "covers/oasis/whatever.png",
+            "songs": [
+                "Whatever"
+            ]
+        }
+    ]
+}
